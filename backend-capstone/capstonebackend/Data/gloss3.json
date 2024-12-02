@@ -1,0 +1,627 @@
+[
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_قد",
+            "gloss": "قد: أداة تدل على التحقيق أو التوقع.",
+            "definition": "تُستخدم لتأكيد شيء أو التعبير عن احتماله."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تعلم",
+            "gloss": "تعلم: فعل يدل على اكتساب المعرفة أو المهارات.",
+            "definition": "يشير إلى عملية استيعاب معلومات أو تقنيات جديدة."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_من",
+            "gloss": "من: أداة تدل على المصدر أو البداية.",
+            "definition": "تُستخدم للإشارة إلى مكان البداية أو السبب."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_منع",
+            "gloss": "منع: فعل يدل على الحظر أو الوقاية.",
+            "definition": "يشير إلى إيقاف حدوث شيء أو تجنبه."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_صغير",
+            "gloss": "صغير: صفة تدل على الحجم أو العمر القليل.",
+            "definition": "يشير إلى الشيء أو الشخص ذو الحجم أو العمر الصغير."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_دخول",
+            "gloss": "دخول: اسم يدل على عملية الدخول أو الانضمام.",
+            "definition": "يشير إلى عبور مكان أو الانضمام إلى شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_أنا",
+            "gloss": "أنا: ضمير يدل على المتحدث.",
+            "definition": "يُستخدم للإشارة إلى النفس أثناء الكلام."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_وجبة",
+            "gloss": "وجبة: اسم يدل على الطعام الذي يتم تناوله في وقت معين.",
+            "definition": "يشير إلى مجموعة الأطعمة التي تؤكل في مناسبة واحدة."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_حان",
+            "gloss": "حان: فعل يدل على الوصول إلى الوقت المناسب.",
+            "definition": "يشير إلى أن الوقت قد أصبح ملائمًا لحدوث شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_وقت",
+            "gloss": "وقت: اسم يدل على الزمن أو الفترة.",
+            "definition": "يشير إلى الفترة الزمنية التي يُحدد بها شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تجريب",
+            "gloss": "تجريب: اسم يدل على عملية الاختبار أو التجربة.",
+            "definition": "يشير إلى محاولة استخدام شيء لاختبار صحته أو فعاليته."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تمام",
+            "gloss": "تمام: صفة تدل على الاكتمال أو الكمال.",
+            "definition": "يشير إلى الشيء الذي اكتمل بشكل كامل أو مُرضٍ."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_دخل",
+            "gloss": "دخل: فعل يدل على الدخول أو الانضمام.",
+            "definition": "يشير إلى عملية الدخول إلى مكان أو الانخراط في شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_صنع",
+            "gloss": "صنع: فعل يدل على الإبداع أو الإنتاج.",
+            "definition": "يشير إلى عملية إنشاء شيء بواسطة اليد أو الأدوات."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_كعك",
+            "gloss": "كعك: اسم يدل على نوع من الحلوى المخبوزة.",
+            "definition": "يشير إلى نوع من الطعام يُصنع من الدقيق والسكر ويُخبز."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تفاح",
+            "gloss": "تفاح: اسم يدل على فاكهة معروفة.",
+            "definition": "يشير إلى نوع من الفواكه الحلوة يُأكل طازجًا أو يُستخدم في الطهي."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_حضر",
+            "gloss": "حضر: فعل يدل على التواجد أو الإعداد.",
+            "definition": "يشير إلى عملية التواجد في مكان أو تحضير شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تعليق",
+            "gloss": "تعليق: اسم يدل على التعبير أو التوضيح.",
+            "definition": "يشير إلى كلمات أو جمل تُستخدم لتوضيح أو شرح شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_معبر",
+            "gloss": "معبر: اسم يدل على مكان للعبور.",
+            "definition": "يشير إلى مكان أو نقطة تُستخدم للمرور بين جهتين."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_لقيمة",
+            "gloss": "لقيمة: اسم يدل على كمية صغيرة من الطعام.",
+            "definition": "يشير إلى قطعة صغيرة من الطعام تُأكل دفعة واحدة."
+        }
+    },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_غذائي",
+                "gloss": "غذائي: صفة متعلقة بالغذاء أو الطعام.",
+                "definition": "يشير إلى ما يتعلق بالطعام أو العناصر الغذائية."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_فم",
+                "gloss": "فم: اسم يدل على مدخل الجهاز الهضمي.",
+                "definition": "يشير إلى الفتحة في الوجه التي تُستخدم للأكل والكلام."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_فمي",
+                "gloss": "فمي: ضمير ملكية يدل على الفم الخاص بي.",
+                "definition": "يشير إلى الفم الذي يخص المتحدث."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_معرفة",
+                "gloss": "معرفة: اسم يدل على الإدراك أو الفهم.",
+                "definition": "يشير إلى المعلومات أو الخبرة المكتسبة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_مصير",
+                "gloss": "مصير: اسم يدل على النتيجة أو المستقبل.",
+                "definition": "يشير إلى ما سيحدث في المستقبل أو النهاية المتوقعة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_هذا",
+                "gloss": "هذا: اسم إشارة يدل على شيء قريب.",
+                "definition": "يُستخدم للإشارة إلى شيء قريب أو حاضر."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_عين",
+                "gloss": "عين: اسم يدل على عضو الإبصار.",
+                "definition": "يشير إلى العضو الحسي المسؤول عن الرؤية."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_تردد",
+                "gloss": "تردد: اسم يدل على الحيرة أو التكرار.",
+                "definition": "يشير إلى التردد في اتخاذ قرار أو التكرار المنتظم."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_لحظة",
+                "gloss": "لحظة: اسم يدل على فترة زمنية قصيرة جدًا.",
+                "definition": "يشير إلى جزء صغير جدًا من الزمن."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_نفس",
+                "gloss": "نفس: اسم يدل على الذات أو الروح.",
+                "definition": "يشير إلى ذات الشخص أو جوهره الداخلي."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_مبلل",
+                "gloss": "مبلل: صفة تدل على وجود بلل أو رطوبة.",
+                "definition": "يشير إلى شيء مغطى بالماء أو الرطوبة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_بلعوم",
+                "gloss": "بلعوم: اسم يدل على جزء من الجهاز الهضمي.",
+                "definition": "يشير إلى القناة التي تربط الفم بالمريء."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_مريء",
+                "gloss": "مريء: اسم يدل على القناة المؤدية إلى المعدة.",
+                "definition": "يشير إلى الأنبوب الذي ينقل الطعام من البلعوم إلى المعدة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_تحول",
+                "gloss": "تحول: فعل يدل على التغيير أو الانتقال.",
+                "definition": "يشير إلى الانتقال من حالة إلى أخرى."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_داخل",
+                "gloss": "داخل: اسم يدل على الجزء الداخلي.",
+                "definition": "يشير إلى ما يوجد أو يحدث في الداخل."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_هضم",
+                "gloss": "هضم: اسم يدل على عملية تفكيك الطعام.",
+                "definition": "يشير إلى العملية التي يتم بها تحويل الطعام إلى مواد قابلة للامتصاص."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حمل",
+                "gloss": "حمل: فعل يدل على رفع أو نقل شيء.",
+                "definition": "يشير إلى فعل رفع شيء أو نقله من مكان إلى آخر."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_دم",
+                "gloss": "دم: اسم يدل على السائل الحيوي في الجسم.",
+                "definition": "يشير إلى السائل الذي ينقل الأكسجين والمغذيات في الجسم."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_جهاز",
+                "gloss": "جهاز: اسم يدل على مجموعة من الأعضاء التي تعمل معًا.",
+                "definition": "يشير إلى مجموعة من الأدوات أو الأعضاء ذات الوظيفة المحددة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_جدي",
+                "gloss": "جدي: صفة تدل على الجدية أو الأهمية.",
+                "definition": "يشير إلى التصرف أو الشيء الذي يُعامل بجدية وأهمية."
+            }
+        },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_غابة",
+                    "gloss": "غابة: اسم يدل على مساحة مليئة بالأشجار.",
+                    "definition": "يشير إلى منطقة طبيعية تحتوي على كثافة عالية من الأشجار."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_مع",
+                    "gloss": "مع: حرف يدل على المصاحبة أو الشراكة.",
+                    "definition": "يستخدم للإشارة إلى وجود شيء أو شخص بجانب الآخر."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_رياضة",
+                    "gloss": "رياضة: اسم يدل على النشاط البدني.",
+                    "definition": "يشير إلى مجموعة من الأنشطة البدنية التي تهدف إلى تحسين اللياقة البدنية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عذر",
+                    "gloss": "عذر: اسم يدل على التبرير أو السبب.",
+                    "definition": "يشير إلى مبرر يُعطى لتوضيح سبب التصرف أو الخطأ."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_صفية",
+                    "gloss": "صفية: اسم مؤنث يدل على النقاء.",
+                    "definition": "يشير إلى شخص أو شيء يتميز بالنقاء أو الصفاء."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_ناسب",
+                    "gloss": "ناسب: فعل يدل على التوافق أو الملاءمة.",
+                    "definition": "يشير إلى شيء يتلاءم أو يتوافق مع شيء آخر."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_ضحك",
+                    "gloss": "ضحك: فعل يدل على التعبير عن الفرح.",
+                    "definition": "يشير إلى التعبير الصوتي والوجهي الناتج عن الشعور بالبهجة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_مارس",
+                    "gloss": "مارس: فعل يدل على القيام بنشاط معين.",
+                    "definition": "يشير إلى أداء نشاط بشكل منتظم أو متكرر."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كبير",
+                    "gloss": "كبير: صفة تدل على الحجم الكبير أو الأهمية.",
+                    "definition": "يشير إلى الشيء الذي يتجاوز الحجم أو القيمة المعتادة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_جسم",
+                    "gloss": "جسم: اسم يدل على الكيان المادي.",
+                    "definition": "يشير إلى الكيان المادي المكون من أعضاء وأنسجة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_نشط",
+                    "gloss": "نشط: صفة تدل على الحيوية والحركة.",
+                    "definition": "يشير إلى الشخص أو الشيء الذي يتميز بالنشاط والحيوية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_دورة",
+                    "gloss": "دورة: اسم يدل على التسلسل الدوري أو الحلقات.",
+                    "definition": "يشير إلى تكرار شيء في نمط دائري أو متتابع."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_قوى",
+                    "gloss": "قوى: جمع قوة، تدل على القدرة أو الطاقة.",
+                    "definition": "تشير إلى القدرات البدنية أو المعنوية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_تنفسي",
+                    "gloss": "تنفسي: صفة متعلقة بعملية التنفس.",
+                    "definition": "يشير إلى الأنشطة أو الأعضاء المتعلقة بعملية التنفس."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_شد",
+                    "gloss": "شد: فعل يدل على السحب أو الجر.",
+                    "definition": "يشير إلى تطبيق القوة لسحب شيء أو شده."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عضلة",
+                    "gloss": "عضلة: اسم يدل على النسيج الحركي في الجسم.",
+                    "definition": "يشير إلى نسيج عضوي في الجسم يُستخدم في الحركة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_أفضل",
+                    "gloss": "أفضل: صفة تدل على التميز أو الأفضلية.",
+                    "definition": "يشير إلى الشيء الأكثر تميزًا أو الأفضل مقارنة بغيره."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_فضاء",
+                    "gloss": "فضاء: اسم يدل على المساحة الواسعة.",
+                    "definition": "يشير إلى الفضاء الخارجي أو أي مساحة واسعة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_شجرة",
+                    "gloss": "شجرة: اسم يدل على النبات الخشبي.",
+                    "definition": "يشير إلى نبات خشبي مع فروع وأوراق."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كلام",
+                    "gloss": "كلام: اسم يدل على التعبير اللفظي.",
+                    "definition": "يشير إلى الكلمات المنطوقة أو المكتوبة للتواصل."
+                }
+            },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_موعد",
+                        "gloss": "موعد: اسم يدل على وقت محدد للالتقاء أو التنفيذ.",
+                        "definition": "يشير إلى الزمن أو التاريخ المتفق عليه لأداء شيء معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_عطس",
+                        "gloss": "عطس: فعل يدل على إخراج الهواء فجأة من الأنف والفم.",
+                        "definition": "يشير إلى رد فعل جسم الإنسان لطرد الجسيمات من الممرات الأنفية."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_باب",
+                        "gloss": "باب: اسم يدل على مدخل يمكن فتحه أو إغلاقه.",
+                        "definition": "يشير إلى الجزء المتحرك في الحائط الذي يتيح الدخول والخروج."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_عتاب",
+                        "gloss": "عتاب: اسم يدل على اللوم الخفيف أو النقد.",
+                        "definition": "يشير إلى توجيه ملاحظات لشخص ما بطريقة غير حادة."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_خفيف",
+                        "gloss": "خفيف: صفة تدل على الوزن القليل أو الرقة.",
+                        "definition": "يشير إلى الشيء الذي لا يزن كثيرًا أو الذي يتميز بسهولة الحركة."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_مفتوح",
+                        "gloss": "مفتوح: صفة تدل على عدم الإغلاق.",
+                        "definition": "يشير إلى الشيء الذي يكون في حالة عدم الإغلاق أو الانفتاح."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_منى",
+                        "gloss": "منى: اسم يدل على التمنيات أو الرغبات.",
+                        "definition": "يشير إلى الأماني أو الأحلام التي يرغب الشخص في تحقيقها."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_جبيني",
+                        "gloss": "جبيني: اسم يدل على الجزء الأمامي من الرأس.",
+                        "definition": "يشير إلى منطقة الجبهة في الوجه."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_منديل",
+                        "gloss": "منديل: اسم يدل على قطعة قماش أو ورق تُستخدم للتنظيف.",
+                        "definition": "يشير إلى قطعة تُستخدم لمسح الوجه أو اليدين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_غسل",
+                        "gloss": "غسل: فعل يدل على تنظيف شيء باستخدام الماء.",
+                        "definition": "يشير إلى عملية التنظيف بالماء لإزالة الأوساخ أو الجراثيم."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تجنب",
+                        "gloss": "تجنب: فعل يدل على الابتعاد أو تجنب شيء معين.",
+                        "definition": "يشير إلى محاولة الابتعاد عن موقف أو شخص أو شيء."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_عصير",
+                        "gloss": "عصير: اسم يدل على السائل المستخرج من الفواكه.",
+                        "definition": "يشير إلى مشروب طبيعي يتم استخراجه من الفواكه."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_برتقال",
+                        "gloss": "برتقال: اسم يدل على نوع من الفواكه الحمضية.",
+                        "definition": "يشير إلى فاكهة برتقالية اللون تُعرف بمذاقها الحمضي."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_طأطأ",
+                        "gloss": "طأطأ: فعل يدل على خفض الرأس.",
+                        "definition": "يشير إلى حركة الرأس إلى أسفل كإشارة للتواضع أو الاحترام."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_توجيه",
+                        "gloss": "توجيه: اسم يدل على الإرشاد أو التعليمات.",
+                        "definition": "يشير إلى إعطاء توجيهات أو إرشادات لتحقيق هدف معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_مأكول",
+                        "gloss": "مأكول: اسم يدل على الشيء الذي يمكن أكله.",
+                        "definition": "يشير إلى الطعام أو الشيء الصالح للأكل."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ذكرى",
+                        "gloss": "ذكرى: اسم يدل على حدث يُتذكر.",
+                        "definition": "يشير إلى لحظة أو حدث مُهم يُحتفظ بذكراه."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_نحن",
+                        "gloss": "نحن: ضمير يدل على الجماعة.",
+                        "definition": "يشير إلى مجموعة تتحدث عن نفسها بصيغة الجمع."
+                    }
+                }
+    
+]

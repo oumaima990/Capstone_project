@@ -1,0 +1,1760 @@
+[
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_كل",
+            "type": "multiple_choice",
+            "question": "ما هو المعنى الصحيح لكلمة 'كل'؟",
+            "options": ["جمع", "كل شيء", "عدد", "بعض"],
+            "answer": "كل شيء"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_كل",
+            "type": "fill_in_blank",
+            "question": "أكمل الجملة: قرأت ____ الكتب الموجودة.",
+            "options": null,
+            "answer": "كل"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_عام",
+            "type": "multiple_choice",
+            "question": "ما هو المعنى الصحيح لكلمة 'عام'؟",
+            "options": ["يومي", "أسبوعي", "سنوي", "شهري"],
+            "answer": "سنوي"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_عام",
+            "type": "fill_in_blank",
+            "question": "أكمل الجملة: احتفلت بعيد ميلادي ____ الماضي.",
+            "options": null,
+            "answer": "عام"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_بعيد",
+            "type": "multiple_choice",
+            "question": "ما هو المعنى الصحيح لكلمة 'بعيد'؟",
+            "options": ["قريب", "عميق", "ضخم", "غير قريب"],
+            "answer": "غير قريب"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_بعيد",
+            "type": "fill_in_blank",
+            "question": "أكمل الجملة: قريتي تقع في مكان ____.",
+            "options": null,
+            "answer": "بعيد"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_ميلاد",
+            "type": "multiple_choice",
+            "question": "ما هو المعنى الصحيح لكلمة 'ميلاد'؟",
+            "options": ["وفاة", "حياة", "ميلاد", "سفر"],
+            "answer": "ميلاد"
+        }
+    },
+    {
+        "model": "knowledge.Question",
+        "fields": {
+            "node": "KC_Vocab_ميلاد",
+            "type": "fill_in_blank",
+            "question": "أكمل الجملة: تاريخ ____ هو الأول من يناير.",
+            "options": null,
+            "answer": "ميلاد"
+        }
+    },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_علق",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'علق'؟",
+                "options": ["تحدث", "كتب", "أمسك", "علق"],
+                "answer": "علق"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_علق",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ الطالب الجواب على الحائط.",
+                "options": null,
+                "answer": "علق"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_تمنى",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'تمنى'؟",
+                "options": ["حلم", "فكر", "تمنى", "قرر"],
+                "answer": "تمنى"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_تمنى",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ الجميع حياة سعيدة.",
+                "options": null,
+                "answer": "تمنى"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_ما",
+                "type": "multiple_choice",
+                "question": "ما هو الاستخدام الصحيح لكلمة 'ما'؟",
+                "options": ["تدل على سؤال", "تعني كل شيء", "تستخدم للنفي", "جميع ما سبق"],
+                "answer": "جميع ما سبق"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_ما",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ السبب وراء هذا الخطأ؟",
+                "options": null,
+                "answer": "ما"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_حل",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'حل'؟",
+                "options": ["تفسير", "إجابة", "قرار", "حل"],
+                "answer": "إجابة"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_حل",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: نجح الفريق في إيجاد ____ للمشكلة.",
+                "options": null,
+                "answer": "حل"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_جديد",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'جديد'؟",
+                "options": ["قديم", "حديث", "مستخدم", "مكرر"],
+                "answer": "حديث"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_جديد",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: اشتريت كتاباً ____ أمس.",
+                "options": null,
+                "answer": "جديد"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_حمل",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'حمل'؟",
+                "options": ["رفع", "سحب", "ضغط", "حمل"],
+                "answer": "رفع"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_حمل",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ العامل الصندوق الثقيل إلى السيارة.",
+                "options": null,
+                "answer": "حمل"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_قال",
+                "type": "multiple_choice",
+                "question": "ما هو المعنى الصحيح لكلمة 'قال'؟",
+                "options": ["سأل", "أجاب", "تحدث", "قال"],
+                "answer": "تحدث"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_قال",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ المعلم 'هذا عمل ممتاز'.",
+                "options": null,
+                "answer": "قال"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_كان",
+                "type": "multiple_choice",
+            "question": "ما هو الاستخدام الصحيح لكلمة 'كان'؟",
+                "options": ["دلالة على الماضي", "مساعد في الجملة", "تدل على الاستمرار", "جميع ما سبق"],
+                "answer": "جميع ما سبق"
+            }
+        },
+        {
+            "model": "knowledge.Question",
+            "fields": {
+                "node": "KC_Vocab_كان",
+                "type": "fill_in_blank",
+                "question": "أكمل الجملة: ____ الطقس جميلاً بالأمس.",
+                "options": null,
+                "answer": "كان"
+            }
+        },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_عذر",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'عذر'؟",
+                    "options": ["سبب", "موافقة", "خطأ", "رفض"],
+                    "answer": "سبب"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_عذر",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: قدم الطالب ____ عن غيابه.",
+                    "options": null,
+                    "answer": "عذر"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_ظرف",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'ظرف'؟",
+                    "options": ["مغلف", "وضع", "مكان", "وقت"],
+                    "answer": "وضع"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_ظرف",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: بسبب ____ طارئ، تأجل الاجتماع.",
+                    "options": null,
+                    "answer": "ظرف"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_زيارة",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'زيارة'؟",
+                    "options": ["سفر", "لقاء", "زيارة", "إقامة"],
+                    "answer": "زيارة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_زيارة",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: خططت العائلة ____ للأقارب في العطلة.",
+                    "options": null,
+                    "answer": "زيارة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_جدة",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'جدة'؟",
+                    "options": ["أخت", "جدة", "مدينة", "قريبة"],
+                    "answer": "جدة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_جدة",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: ذهبت لزيارة ____ في العيد.",
+                    "options": null,
+                    "answer": "جدة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_عمة",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'عمة'؟",
+                    "options": ["والدة", "أخت الأب", "أخت الأم", "قريبة"],
+                    "answer": "أخت الأب"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_عمة",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: أحضرت ____ هدية جميلة.",
+                    "options": null,
+                    "answer": "عمة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_مريض",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'مريض'؟",
+                    "options": ["سعيد", "حزين", "غير سليم", "معتاد"],
+                    "answer": "غير سليم"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_مريض",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: زرت جاري ____ في المستشفى.",
+                    "options": null,
+                    "answer": "مريض"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_حديقة",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'حديقة'؟",
+                    "options": ["مكان للجلوس", "مكان للزراعة", "حديقة", "مكان للأكل"],
+                    "answer": "مكان للزراعة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_حديقة",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: ذهبنا للعب في ____ المدرسة.",
+                    "options": null,
+                    "answer": "حديقة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_شجرة",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'شجرة'؟",
+                    "options": ["نبات طويل", "نبات صغير", "زهرة", "أرض"],
+                    "answer": "نبات طويل"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_شجرة",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: زرعنا ____ في الحديقة.",
+                    "options": null,
+                    "answer": "شجرة"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_غرس",
+                    "type": "multiple_choice",
+                    "question": "ما هو المعنى الصحيح لكلمة 'غرس'؟",
+                    "options": ["وضع نبات", "سقي نبات", "تنظيف", "زراعة"],
+                    "answer": "وضع نبات"
+                }
+            },
+            {
+                "model": "knowledge.Question",
+                "fields": {
+                    "node": "KC_Vocab_غرس",
+                    "type": "fill_in_blank",
+                    "question": "أكمل الجملة: ____ المزارع الشجر في الأرض الخصبة.",
+                    "options": null,
+                    "answer": "غرس"
+                }
+            },
+
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_شتلة",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'شتلة'؟",
+                        "options": ["زهرة", "نبات صغير", "شجرة كبيرة", "وردة"],
+                        "answer": "نبات صغير"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_شتلة",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: زرع الفلاح ____ في الأرض.",
+                        "options": null,
+                        "answer": "شتلة"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_نظم",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'نظم'؟",
+                        "options": ["نثر", "نظم", "ترتيب", "تشويش"],
+                        "answer": "ترتيب"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_نظم",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: ____ المعلم الطلاب في صفوف متناسقة.",
+                        "options": null,
+                        "answer": "نظم"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_مسابقة",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'مسابقة'؟",
+                        "options": ["لعبة", "منافسة", "فريق", "تحدي"],
+                        "answer": "منافسة"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_مسابقة",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: شاركت في ____ للرياضيات.",
+                        "options": null,
+                        "answer": "مسابقة"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_كافأ",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'كافأ'؟",
+                        "options": ["عاقب", "شجع", "أعطى مكافأة", "طالب"],
+                        "answer": "أعطى مكافأة"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_كافأ",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: ____ المدير الموظف على جهوده.",
+                        "options": null,
+                        "answer": "كافأ"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_هواية",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'هواية'؟",
+                        "options": ["مهنة", "عمل", "هواية", "تسلية"],
+                        "answer": "هواية"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_هواية",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: الرسم هو ____ المفضلة لدي.",
+                        "options": null,
+                        "answer": "هواية"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_رسم",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'رسم'؟",
+                        "options": ["كتابة", "تصوير", "رسم", "نقش"],
+                        "answer": "رسم"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_رسم",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: أحب ____ الطبيعة.",
+                        "options": null,
+                        "answer": "رسم"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_لعب",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'لعب'؟",
+                        "options": ["عمل", "تسلية", "راحة", "مشاهدة"],
+                        "answer": "تسلية"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_لعب",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: الأطفال يحبون ____ في الحديقة.",
+                        "options": null,
+                        "answer": "لعب"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_خصص",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'خصص'؟",
+                        "options": ["وزع", "خصص", "حدد", "تجاهل"],
+                        "answer": "حدد"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_خصص",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: ____ الأستاذ وقتاً للمناقشة.",
+                        "options": null,
+                        "answer": "خصص"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_عناية",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'عناية'؟",
+                        "options": ["اهتمام", "إهمال", "رعاية", "عناية"],
+                        "answer": "رعاية"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_عناية",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: يحتاج المريض إلى ____ خاصة.",
+                        "options": null,
+                        "answer": "عناية"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_متعة",
+                        "type": "multiple_choice",
+                        "question": "ما هو المعنى الصحيح لكلمة 'متعة'؟",
+                        "options": ["سعادة", "فرح", "متعة", "راحة"],
+                        "answer": "متعة"
+                    }
+                },
+                {
+                    "model": "knowledge.Question",
+                    "fields": {
+                        "node": "KC_Vocab_متعة",
+                        "type": "fill_in_blank",
+                        "question": "أكمل الجملة: السفر يوفر ____ كبيرة للإنسان.",
+                        "options": null,
+                        "answer": "متعة"
+                    }
+                },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_ٱحتفل",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: ____ العائلة بعيد ميلاد الأب.",
+                            "options": null,
+                            "answer": "ٱحتفل"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_تصنع",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'تصنع'؟",
+                            "options": ["جهز", "قام بعمل", "تصنع", "أنتج"],
+                            "answer": "قام بعمل"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_زينة",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: وضعت الأم ____ على الطاولة.",
+                            "options": null,
+                            "answer": "زينة"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_هذا",
+                            "type": "multiple_choice",
+                            "question": "ما هو الاستخدام الصحيح لكلمة 'هذا'؟",
+                            "options": ["للدلالة على شيء قريب", "للدلالة على شيء بعيد", "للسؤال", "للتعجب"],
+                            "answer": "للدلالة على شيء قريب"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_ل",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: ذهبت ____ شراء الخبز من السوق.",
+                            "options": null,
+                            "answer": "ل"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_معلوم",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'معلوم'؟",
+                            "options": ["واضح", "مجهول", "مشكوك", "معلوم"],
+                            "answer": "واضح"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_أهدى",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: ____ الصديق لصديقه كتاباً جديداً.",
+                            "options": null,
+                            "answer": "أهدى"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_تقبل",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'تقبل'؟",
+                            "options": ["رفض", "قبل", "ناقش", "اهتم"],
+                            "answer": "قبل"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_شاكر",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: كتب الطالب رسالة ____ لأستاذه.",
+                            "options": null,
+                            "answer": "شاكر"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_أخذ",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'أخذ'؟",
+                            "options": ["رفض", "أمسك", "تناول", "حمل"],
+                            "answer": "تناول"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_شكر",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: ____ الطالب أصدقاءه على المساعدة.",
+                            "options": null,
+                            "answer": "شكر"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_لكن",
+                            "type": "multiple_choice",
+                            "question": "ما هو الاستخدام الصحيح لكلمة 'لكن'؟",
+                            "options": ["للتأكيد", "للتناقض", "للسببية", "للشرح"],
+                            "answer": "للتناقض"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_قرأ",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: ____ الطالب القصة بصوت عالٍ.",
+                            "options": null,
+                            "answer": "قرأ"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_مشي",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'مشي'؟",
+                            "options": ["ركض", "زحف", "مشى", "طاف"],
+                            "answer": "مشى"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_ركبة",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: شعرت بألم في ____ بعد الرياضة.",
+                            "options": null,
+                            "answer": "ركبة"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_أم",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'أم'؟",
+                            "options": ["والدة", "أخت", "عمة", "ابنة"],
+                            "answer": "والدة"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_فطيرة",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: تناولت ____ لذيذة في الفطور.",
+                            "options": null,
+                            "answer": "فطيرة"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_لذيذ",
+                            "type": "multiple_choice",
+                            "question": "ما هو المعنى الصحيح لكلمة 'لذيذ'؟",
+                            "options": ["سيئ", "طيب", "ممتاز", "لذيذ"],
+                            "answer": "طيب"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_أب",
+                            "type": "fill_in_blank",
+                            "question": "أكمل الجملة: أحضر ____ هدية جميلة.",
+                            "options": null,
+                            "answer": "أب"
+                        }
+                    },
+                    {
+                        "model": "knowledge.Question",
+                        "fields": {
+                            "node": "KC_Vocab_في",
+                            "type": "multiple_choice",
+                            "question": "ما هو الاستخدام الصحيح لكلمة 'في'؟",
+                            "options": ["للمكان", "للزمن", "للسببية", "جميع ما سبق"],
+                            "answer": "جميع ما سبق"
+                        }
+                    },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_نحو",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: توجهنا ____ الشرق عند الفجر.",
+                                "options": null,
+                                "answer": "نحو"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_بيت",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'بيت'؟",
+                                "options": ["منزل", "حقل", "مدينة", "طريق"],
+                                "answer": "منزل"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_أن",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: أظن ____ الوقت قد حان.",
+                                "options": null,
+                                "answer": "أن"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_ٱشترى",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'ٱشترى'؟",
+                                "options": ["باع", "أخذ", "اقتنى", "أعطى"],
+                                "answer": "اقتنى"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_والد",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: كان ____ الطفل سعيداً به.",
+                                "options": null,
+                                "answer": "والد"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_دراجة",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'دراجة'؟",
+                                "options": ["سيارة", "قطار", "مركبة صغيرة", "دراجة"],
+                                "answer": "مركبة صغيرة"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_يوم",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: ذهبنا إلى البحر في ____ الجمعة.",
+                                "options": null,
+                                "answer": "يوم"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_ثوب",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'ثوب'؟",
+                                "options": ["حذاء", "ملابس", "قبعة", "حقيبة"],
+                                "answer": "ملابس"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_أقبل",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: ____ الضيف إلى الحفل مسرعاً.",
+                                "options": null,
+                                "answer": "أقبل"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_أبي",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'أبي'؟",
+                                "options": ["أخت", "والدي", "صديق", "خال"],
+                                "answer": "والدي"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_مسجل",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: اشتريت ____ جديداً لتسجيل الأغاني.",
+                                "options": null,
+                                "answer": "مسجل"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_فتور",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'فتور'؟",
+                                "options": ["حماس", "كسل", "نشاط", "حيوية"],
+                                "answer": "كسل"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_أراد",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: ____ الطالب تحقيق النجاح.",
+                                "options": null,
+                                "answer": "أراد"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_لدى",
+                                "type": "multiple_choice",
+                                "question": "ما هو الاستخدام الصحيح لكلمة 'لدى'؟",
+                                "options": ["مع", "من", "إلى", "على"],
+                                "answer": "مع"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_إزاء",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: وقف الشاب ____ التحديات بشجاعة.",
+                                "options": null,
+                                "answer": "إزاء"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_عاد",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'عاد'؟",
+                                "options": ["ذهب", "رجع", "استمر", "بدأ"],
+                                "answer": "رجع"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_مساء",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: تناولنا العشاء في وقت ____.",
+                                "options": null,
+                                "answer": "مساء"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_وجد",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'وجد'؟",
+                                "options": ["بحث", "اختفى", "اكتشف", "وجد"],
+                                "answer": "اكتشف"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_شذب",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: ____ الفلاح الأشجار في الحديقة.",
+                                "options": null,
+                                "answer": "شذب"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_تنزه",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'تنزه'؟",
+                                "options": ["ركض", "تمشى", "أقام", "نام"],
+                                "answer": "تمشى"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_متاعب",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: واجه العامل ____ في عمله.",
+                                "options": null,
+                                "answer": "متاعب"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_أمن",
+                                "type": "multiple_choice",
+                                "question": "ما هو المعنى الصحيح لكلمة 'أمن'؟",
+                                "options": ["خوف", "سلام", "خطر", "حزن"],
+                                "answer": "سلام"
+                            }
+                        },
+                        {
+                            "model": "knowledge.Question",
+                            "fields": {
+                                "node": "KC_Vocab_سلم",
+                                "type": "fill_in_blank",
+                                "question": "أكمل الجملة: مشى الطفل على ____ المنزل بحذر.",
+                                "options": null,
+                                "answer": "سلم"
+                            }
+                        },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_فِي",
+                                    "gloss": "في: حرف جر يدل على المكان أو الزمان.",
+                                    "definition": "يُستخدم للإشارة إلى موقع شيء ما أو توقيته."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_صباح",
+                                    "gloss": "صباح: اسم يدل على فترة النهار الأولى.",
+                                    "definition": "يُستخدم للإشارة إلى الوقت بين الفجر والظهر."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_احد",
+                                    "gloss": "احد: اسم يدل على يوم الأحد أو أحد الأشخاص.",
+                                    "definition": "يُستخدم للإشارة إلى اليوم الأول في الأسبوع أو شخص مجهول."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_يوم",
+                                    "gloss": "يوم: اسم يدل على فترة زمنية مكونة من 24 ساعة.",
+                                    "definition": "يُستخدم للإشارة إلى وحدة زمنية محددة."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_عام",
+                                    "gloss": "عام: اسم يدل على السنة الزمنية.",
+                                    "definition": "يُستخدم للإشارة إلى مدة زمنية تتألف من 12 شهرًا."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_جديد",
+                                    "gloss": "جديد: صفة تدل على شيء حديث أو غير مستعمل.",
+                                    "definition": "يُستخدم لوصف شيء تم إنتاجه مؤخرًا."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_قرر",
+                                    "gloss": "قرر: فعل يدل على اتخاذ قرار بشأن شيء.",
+                                    "definition": "يُستخدم للإشارة إلى حسم أمر أو وضع خطة."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_سامي",
+                                    "gloss": "سامي: اسم علم يُطلق على الأشخاص.",
+                                    "definition": "يُستخدم للإشارة إلى اسم شخص أو كنية."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_اسرة",
+                                    "gloss": "اسرة: اسم يدل على العائلة.",
+                                    "definition": "تُستخدم للإشارة إلى مجموعة الأشخاص المرتبطين بالنسب أو الزواج."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_زيارة",
+                                    "gloss": "زيارة: اسم يدل على الذهاب إلى مكان بهدف لقاء شخص أو مشاهدة شيء.",
+                                    "definition": "تُستخدم للإشارة إلى فعل زيارة شخص أو مكان."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_حديقة",
+                                    "gloss": "حديقة: اسم يدل على مكان مزروع بالأشجار والزهور.",
+                                    "definition": "تُستخدم للإشارة إلى مكان مخصص للتنزه أو الزراعة."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_قضاء",
+                                    "gloss": "قضاء: اسم يدل على تحقيق أو إنهاء شيء.",
+                                    "definition": "يُستخدم للإشارة إلى إتمام وقت أو مهمة."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_طبيعة",
+                                    "gloss": "طبيعة: اسم يدل على العالم الطبيعي بما فيه من جبال وأشجار.",
+                                    "definition": "تُستخدم للإشارة إلى البيئة الطبيعية دون تدخل بشري."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_قال",
+                                    "gloss": "قال: فعل يدل على النطق أو الإخبار بشيء.",
+                                    "definition": "يُستخدم للإشارة إلى التعبير عن فكرة أو رأي بالكلام."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_ما",
+                                    "gloss": "ما: أداة استفهام أو نفي حسب السياق.",
+                                    "definition": "تُستخدم للسؤال عن شيء مجهول أو نفي فعل."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_رأي",
+                                    "gloss": "رأي: اسم يدل على الفكرة أو الاعتقاد الشخصي.",
+                                    "definition": "تُستخدم للإشارة إلى وجهة نظر حول موضوع معين."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_ان",
+                                    "gloss": "ان: أداة ربط تدل على التفسير أو التأكيد.",
+                                    "definition": "تُستخدم للإشارة إلى بيان السبب أو شرح."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_حمل",
+                                    "gloss": "حمل: فعل يدل على نقل شيء باليد أو على الظهر.",
+                                    "definition": "يُستخدم للإشارة إلى فعل الإمساك بشيء ونقله."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_طعام",
+                                    "gloss": "طعام: اسم يدل على المأكولات.",
+                                    "definition": "يُستخدم للإشارة إلى ما يُؤكل لإشباع الجوع."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_هواء",
+                                    "gloss": "هواء: اسم يدل على الغلاف الجوي الذي نتنفسه.",
+                                    "definition": "يُستخدم للإشارة إلى الهواء المحيط بنا."
+                                }
+                            },
+                            
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_طلق",
+                                        "gloss": "طلق: صفة تدل على الانفتاح أو التحرر.",
+                                        "definition": "يُستخدم للإشارة إلى شيء غير مغلق أو مقيّد."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_وافق",
+                                        "gloss": "وافق: فعل يدل على القبول أو الإذعان.",
+                                        "definition": "يُستخدم للإشارة إلى الموافقة على رأي أو اقتراح."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_جميع",
+                                        "gloss": "جميع: اسم يدل على الكل أو الشمولية.",
+                                        "definition": "يُستخدم للإشارة إلى كل أفراد مجموعة معينة."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_على",
+                                        "gloss": "على: حرف جر يدل على الموقع أو الاستعلاء.",
+                                        "definition": "يُستخدم للإشارة إلى شيء فوق شيء آخر أو تعلقه به."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_فكرة",
+                                        "gloss": "فكرة: اسم يدل على التصور أو المخيلة.",
+                                        "definition": "يُستخدم للإشارة إلى فكرة أو خطة تتعلق بشيء."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_جهز",
+                                        "gloss": "جهز: فعل يدل على إعداد شيء للاستخدام.",
+                                        "definition": "يُستخدم للإشارة إلى تجهيز أدوات أو أغراض."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_أم",
+                                        "gloss": "أم: اسم يدل على والدة الشخص.",
+                                        "definition": "يُستخدم للإشارة إلى الأم في العائلة."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_حقيبة",
+                                        "gloss": "حقيبة: اسم يدل على وعاء يستخدم لنقل الأغراض.",
+                                        "definition": "يُستخدم للإشارة إلى أداة تُستخدم لحمل الأشياء."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_مليء",
+                                        "gloss": "مليء: صفة تدل على الامتلاء.",
+                                        "definition": "يُستخدم للإشارة إلى شيء ممتلئ بالكامل."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_ماء",
+                                        "gloss": "ماء: اسم يدل على السائل الذي يُشرب.",
+                                        "definition": "يُستخدم للإشارة إلى العنصر الأساسي للحياة."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_عند",
+                                        "gloss": "عند: حرف يدل على المكان أو الزمان.",
+                                        "definition": "يُستخدم للإشارة إلى ظرف مكاني أو زماني."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_وصل",
+                                        "gloss": "وصل: فعل يدل على الوصول إلى مكان معين.",
+                                        "definition": "يُستخدم للإشارة إلى دخول مكان معين."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_إلى",
+                                        "gloss": "إلى: حرف جر يدل على الاتجاه نحو مكان معين.",
+                                        "definition": "يُستخدم للإشارة إلى الغاية أو الهدف."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_استقبل",
+                                        "gloss": "استقبل: فعل يدل على الترحيب أو القبول.",
+                                        "definition": "يُستخدم للإشارة إلى استقبال الأشخاص أو الأشياء."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_ضخم",
+                                        "gloss": "ضخم: صفة تدل على الحجم الكبير.",
+                                        "definition": "يُستخدم للإشارة إلى شيء كبير جدًا."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_مناظر",
+                                        "gloss": "مناظر: جمع يدل على المشاهد أو المناظر الطبيعية.",
+                                        "definition": "يُستخدم للإشارة إلى ما يُرى من مشاهد جميلة."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_خلاب",
+                                        "gloss": "خلاب: صفة تدل على الجمال الساحر.",
+                                        "definition": "يُستخدم لوصف شيء يجذب الأنظار لجماله."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_جلس",
+                                        "gloss": "جلس: فعل يدل على الجلوس أو الاستقرار في مكان.",
+                                        "definition": "يُستخدم للإشارة إلى فعل الجلوس على مقعد أو أرض."
+                                    }
+                                },
+                                {
+                                    "model": "knowledge.glossary",
+                                    "fields": {
+                                        "node": "KC_Vocab_زرع",
+                                        "gloss": "زرع: فعل يدل على وضع نبات في التربة.",
+                                        "definition": "يُستخدم للإشارة إلى فعل غرس النباتات."
+                                    }
+                                },
+
+                                
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_شتلة",
+                                            "gloss": "شتلة: اسم يدل على نبات صغير يُزرع في التربة.",
+                                            "definition": "يُستخدم للإشارة إلى النبات الذي لم يكتمل نموه بعد."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_صغير",
+                                            "gloss": "صغير: صفة تدل على الحجم أو السن الصغير.",
+                                            "definition": "يُستخدم لوصف شيء أو شخص بحجم أو عمر أقل."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_جانب",
+                                            "gloss": "جانب: اسم يدل على الجهة أو الطرف.",
+                                            "definition": "يُستخدم للإشارة إلى المكان القريب أو المتصل بشيء."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_علق",
+                                            "gloss": "علق: فعل يدل على إبداء رأي أو تعليق على شيء.",
+                                            "definition": "يُستخدم للإشارة إلى التعليق أو إبداء ملاحظة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_أب",
+                                            "gloss": "أب: اسم يدل على والد الشخص.",
+                                            "definition": "يُستخدم للإشارة إلى الأب ضمن العائلة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_أمر",
+                                            "gloss": "أمر: اسم يدل على شيء يتم القيام به أو اتخاذ قرار بشأنه.",
+                                            "definition": "يُستخدم للإشارة إلى الحدث أو الفعل المطلوب تنفيذه."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_رائع",
+                                            "gloss": "رائع: صفة تدل على الجمال أو التميز.",
+                                            "definition": "يُستخدم لوصف شيء يثير الإعجاب أو الدهشة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_كل",
+                                            "gloss": "كل: اسم يدل على الشمولية أو التعميم.",
+                                            "definition": "يُستخدم للإشارة إلى كل الأفراد أو الأشياء في مجموعة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_جمال",
+                                            "gloss": "جمال: اسم يدل على الحسن أو البهاء.",
+                                            "definition": "يُستخدم للإشارة إلى الصفات التي تجذب الأنظار."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_حول",
+                                            "gloss": "حول: حرف يدل على المكان المحيط بشيء أو الفعل المتعلق به.",
+                                            "definition": "يُستخدم للإشارة إلى المحيط أو البيئة القريبة من شيء."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_طفل",
+                                            "gloss": "طفل: اسم يدل على إنسان صغير السن.",
+                                            "definition": "يُستخدم للإشارة إلى الإنسان في المراحل الأولى من حياته."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_لعب",
+                                            "gloss": "لعب: فعل يدل على التسلية أو ممارسة نشاط ممتع.",
+                                            "definition": "يُستخدم للإشارة إلى الأنشطة التي تهدف إلى الترفيه."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_تنظيم",
+                                            "gloss": "تنظيم: اسم يدل على الترتيب أو التنسيق.",
+                                            "definition": "يُستخدم للإشارة إلى جعل الأمور مرتبة أو متسقة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_مسابقة",
+                                            "gloss": "مسابقة: اسم يدل على التنافس بين أفراد أو فرق.",
+                                            "definition": "يُستخدم للإشارة إلى حدث يتنافس فيه الأشخاص للحصول على جائزة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_فائز",
+                                            "gloss": "فائز: اسم يدل على الشخص الذي انتصر أو حقق النجاح.",
+                                            "definition": "يُستخدم للإشارة إلى الشخص الذي يحصل على الجائزة أو الفوز."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_حصل",
+                                            "gloss": "حصل: فعل يدل على نيل شيء أو اكتسابه.",
+                                            "definition": "يُستخدم للإشارة إلى امتلاك شيء بعد طلب أو جهد."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_كاف",
+                                            "gloss": "كاف: اسم يدل على المكافأة أو التقدير.",
+                                            "definition": "يُستخدم للإشارة إلى شيء يُمنح كتشجيع أو تقدير."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_مميز",
+                                            "gloss": "مميز: صفة تدل على التفرد أو الاختلاف عن الآخرين.",
+                                            "definition": "يُستخدم لوصف شيء أو شخص له صفات فريدة."
+                                        }
+                                    },
+                                    {
+                                        "model": "knowledge.glossary",
+                                        "fields": {
+                                            "node": "KC_Vocab_جدة",
+                                            "gloss": "جدة: اسم يدل على والدة الأب أو الأم.",
+                                            "definition": "يُستخدم للإشارة إلى الجدة في العائلة."
+                                        }
+                                    },
+                                    
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_ذكر",
+                                                "gloss": "ذكر: فعل يدل على التحدث بشيء أو استحضاره.",
+                                                "definition": "يُستخدم للإشارة إلى قول شيء لتذكير الآخرين أو استحضاره."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_رحلة",
+                                                "gloss": "رحلة: اسم يدل على التنقل من مكان إلى آخر.",
+                                                "definition": "يُستخدم للإشارة إلى السفر أو التنزه."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_طفولة",
+                                                "gloss": "طفولة: اسم يدل على مرحلة الصغر في حياة الإنسان.",
+                                                "definition": "يُستخدم للإشارة إلى الفترة الزمنية التي يكون فيها الإنسان صغيرًا."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_قضى",
+                                                "gloss": "قضى: فعل يدل على إمضاء وقت في شيء.",
+                                                "definition": "يُستخدم للإشارة إلى استهلاك الوقت في نشاط أو مكان."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_شعر",
+                                                "gloss": "شعر: فعل يدل على الإحساس أو الإدراك.",
+                                                "definition": "يُستخدم للإشارة إلى الإحساس بعاطفة أو شعور داخلي."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_سعادة",
+                                                "gloss": "سعادة: اسم يدل على الفرح أو السرور.",
+                                                "definition": "يُستخدم للإشارة إلى الشعور بالارتياح والفرح."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_بعد",
+                                                "gloss": "بعد: ظرف يدل على الزمن أو المسافة التي تأتي لاحقًا.",
+                                                "definition": "يُستخدم للإشارة إلى شيء يحدث لاحقًا في الوقت أو المكان."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_قام",
+                                                "gloss": "قام: فعل يدل على القيام بفعل أو نشاط.",
+                                                "definition": "يُستخدم للإشارة إلى تنفيذ شيء أو الشروع فيه."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_تنزه",
+                                                "gloss": "تنزه: فعل يدل على التمتع بالمناظر الطبيعية أو التنقل للترفيه.",
+                                                "definition": "يُستخدم للإشارة إلى المشي أو قضاء وقت في الطبيعة."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_وجد",
+                                                "gloss": "وجد: فعل يدل على العثور على شيء.",
+                                                "definition": "يُستخدم للإشارة إلى اكتشاف شيء كان مفقودًا أو غير معروف."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_حيرة",
+                                                "gloss": "حيرة: اسم يدل على البركة أو الماء المحاط باليابسة.",
+                                                "definition": "يُستخدم للإشارة إلى مساحة مائية صغيرة."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_سمك",
+                                                "gloss": "سمك: اسم يدل على الكائنات البحرية التي تعيش في الماء.",
+                                                "definition": "يُستخدم للإشارة إلى الحيوانات المائية الصالحة للأكل."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_توقف",
+                                                "gloss": "توقف: فعل يدل على الوقوف أو الكف عن الحركة.",
+                                                "definition": "يُستخدم للإشارة إلى الانتهاء من فعل أو البقاء في مكان."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_بعض",
+                                                "gloss": "بعض: اسم يدل على جزء من الكل.",
+                                                "definition": "يُستخدم للإشارة إلى كمية أو جزء غير محدد من مجموعة."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_تمنى",
+                                                "gloss": "تمنى: فعل يدل على الرغبة في حدوث شيء.",
+                                                "definition": "يُستخدم للإشارة إلى الأمل في تحقق شيء ما."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_لدى",
+                                                "gloss": "لدى: حرف يدل على التملك أو التواجد.",
+                                                "definition": "يُستخدم للإشارة إلى وجود شيء مع شخص."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_مزيد",
+                                                "gloss": "مزيد: اسم يدل على الزيادة أو الإضافة.",
+                                                "definition": "يُستخدم للإشارة إلى الكمية الزائدة من شيء."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_استكشاف",
+                                                "gloss": "استكشاف: اسم يدل على البحث أو الكشف عن شيء.",
+                                                "definition": "يُستخدم للإشارة إلى محاولة معرفة شيء مجهول."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_غروب",
+                                                "gloss": "غروب: اسم يدل على اختفاء الشمس وراء الأفق.",
+                                                "definition": "يُستخدم للإشارة إلى وقت نهاية النهار."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_شكر",
+                                                "gloss": "شكر: فعل يدل على الامتنان أو العرفان.",
+                                                "definition": "يُستخدم للإشارة إلى التعبير عن التقدير لشخص أو شيء."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_استرخاء",
+                                                "gloss": "استرخاء: اسم يدل على الراحة أو التخلص من التوتر.",
+                                                "definition": "يُستخدم للإشارة إلى الراحة الجسدية أو النفسية."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_ضغوط",
+                                                "gloss": "ضغوط: اسم يدل على العوامل التي تسبب التوتر أو القلق.",
+                                                "definition": "يُستخدم للإشارة إلى العوامل المؤثرة سلبًا على الحالة النفسية."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_لوحة",
+                                                "gloss": "لوحة: اسم يدل على سطح يستخدم للرسم أو الكتابة.",
+                                                "definition": "يُستخدم للإشارة إلى قطعة مسطحة للرسم أو العرض."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_علق",
+                                                "gloss": "علق: فعل يدل على وضع شيء على شيء آخر باستخدام أداة تثبيت.",
+                                                "definition": "يُستخدم للإشارة إلى تعليق شيء مثل لوحة أو صورة."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_نظم",
+                                                "gloss": "نظم: فعل يدل على الترتيب أو التنسيق.",
+                                                "definition": "يُستخدم للإشارة إلى وضع الأمور في نظام محدد."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_بيئة",
+                                                "gloss": "بيئة: اسم يدل على المحيط الطبيعي أو الاجتماعي.",
+                                                "definition": "يُستخدم للإشارة إلى الظروف المحيطة بالإنسان أو الكائنات الحية."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_عاد",
+                                                "gloss": "عاد: فعل يدل على الرجوع إلى مكان أو حالة.",
+                                                "definition": "يُستخدم للإشارة إلى العودة إلى مكان سابق أو وضع محدد."
+                                            }
+                                        },
+                                        {
+                                            "model": "knowledge.glossary",
+                                            "fields": {
+                                                "node": "KC_Vocab_ممتلئ",
+                                                "gloss": "ممتلئ: صفة تدل على الامتلاء الكامل.",
+                                                "definition": "يُستخدم للإشارة إلى شيء مملوء بالكامل."
+                                            }
+                                        }
+                                    
+                                    
+                                
+                                
+                            
+                            
+                        
+                        
+                    
+                    
+                
+                
+            
+         
+    
+]

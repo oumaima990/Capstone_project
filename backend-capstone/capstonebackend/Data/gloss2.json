@@ -1,0 +1,1089 @@
+[
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_يا",
+            "gloss": "يا: أداة نداء تُستخدم للمناداة.",
+            "definition": "تُستخدم للإشارة إلى نداء شخص أو شيء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_فضاء",
+            "gloss": "فضاء: اسم يدل على المساحة الواسعة أو الكون.",
+            "definition": "يُستخدم للإشارة إلى الفضاء الخارجي أو المساحات المفتوحة."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_علم",
+            "gloss": "علم: اسم يدل على المعرفة أو الدراسة.",
+            "definition": "تُستخدم للإشارة إلى المعرفة أو التخصص الدراسي."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_معرفة",
+            "gloss": "معرفة: اسم يدل على الإدراك والفهم.",
+            "definition": "تُستخدم للإشارة إلى اكتساب المعلومات أو الفهم."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_نجاح",
+            "gloss": "نجاح: اسم يدل على تحقيق الهدف أو التفوق.",
+            "definition": "تُستخدم للإشارة إلى تحقيق الإنجاز أو الهدف."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_فلاح",
+            "gloss": "فلاح: اسم يدل على الزراعة أو النجاح.",
+            "definition": "تُستخدم للإشارة إلى النجاح في العمل أو الزراعة."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_وقت",
+            "gloss": "وقت: اسم يدل على الزمن أو الفترة الزمنية.",
+            "definition": "تُستخدم للإشارة إلى مدة معينة من الزمن."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_صافي",
+            "gloss": "صافي: صفة تدل على النقاء أو الوضوح.",
+            "definition": "تُستخدم للإشارة إلى شيء نقي وخالٍ من الشوائب."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_لغة",
+            "gloss": "لغة: اسم يدل على نظام من الكلمات والرموز للتواصل.",
+            "definition": "تُستخدم للإشارة إلى وسيلة التواصل بين البشر."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_لعب",
+            "gloss": "لعب: فعل يدل على النشاط الترفيهي.",
+            "definition": "يُستخدم للإشارة إلى الأنشطة الترفيهية أو الألعاب."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_دقيقة",
+            "gloss": "دقيقة: اسم يدل على الوحدة الزمنية الصغيرة.",
+            "definition": "تُستخدم للإشارة إلى جزء من الساعة يُعادل 60 ثانية."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_حكاية",
+            "gloss": "حكاية: اسم يدل على قصة أو سرد للأحداث.",
+            "definition": "تُستخدم للإشارة إلى رواية الأحداث أو القصص."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_راوي",
+            "gloss": "راوي: اسم يدل على الشخص الذي يسرد قصة.",
+            "definition": "تُستخدم للإشارة إلى من يروي أو يسرد الحكايات."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_ثاني",
+            "gloss": "ثاني: اسم يدل على المرتبة الثانية.",
+            "definition": "تُستخدم للإشارة إلى الترتيب بعد الأول."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_صرف",
+            "gloss": "صرف: اسم يدل على التعامل النقدي أو التبديل.",
+            "definition": "تُستخدم للإشارة إلى عملية تبادل النقود أو الموارد."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_نسج",
+            "gloss": "نسج: فعل يدل على تشكيل أو حياكة الأشياء.",
+            "definition": "تُستخدم للإشارة إلى عملية صنع القماش أو الشبكات."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_عالم",
+            "gloss": "عالم: اسم يدل على الشخص الذي يدرس أو يبحث في المعرفة.",
+            "definition": "تُستخدم للإشارة إلى الشخص المختص في العلم."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تقدم",
+            "gloss": "تقدم: اسم يدل على التحسن أو التطور.",
+            "definition": "تُستخدم للإشارة إلى النمو أو التحسن في الأداء."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_تطور",
+            "gloss": "تطور: اسم يدل على النمو أو التحسن التدريجي.",
+            "definition": "تُستخدم للإشارة إلى التغير الإيجابي أو التقدم."
+        }
+    },
+    {
+        "model": "knowledge.glossary",
+        "fields": {
+            "node": "KC_Vocab_مدرسة",
+            "gloss": "مدرسة: اسم يدل على المؤسسة التعليمية.",
+            "definition": "تُستخدم للإشارة إلى مكان التعلم أو التدريس."
+        }
+    },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_من",
+                "gloss": "من: حرف جر يُستخدم للإشارة إلى المصدر أو البداية.",
+                "definition": "تُستخدم للإشارة إلى نقطة انطلاق أو مصدر شيء."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_طين",
+                "gloss": "طين: اسم يدل على التراب الممزوج بالماء.",
+                "definition": "تُستخدم للإشارة إلى المادة المستخدمة في البناء أو الزراعة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حجرة",
+                "gloss": "حجرة: اسم يدل على الغرفة أو المكان المغلق.",
+                "definition": "تُستخدم للإشارة إلى غرفة صغيرة أو مكان خاص."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_ماشي",
+                "gloss": "ماشي: صفة تدل على الحركة أو المشي.",
+                "definition": "تُستخدم للإشارة إلى الشخص الذي يمشي أو يتحرك سيراً."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_قسوة",
+                "gloss": "قسوة: اسم يدل على الشدة أو الخشونة.",
+                "definition": "تُستخدم للإشارة إلى التعامل الصارم أو غير اللين."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حذر",
+                "gloss": "حذر: اسم يدل على الاحتياط أو الانتباه.",
+                "definition": "تُستخدم للإشارة إلى التصرف بحكمة أو تجنب الأخطار."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_برد",
+                "gloss": "برد: اسم يدل على الطقس البارد أو انخفاض الحرارة.",
+                "definition": "تُستخدم للإشارة إلى حالة الطقس أو الشعور بالبرودة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_طريق",
+                "gloss": "طريق: اسم يدل على المسار أو الممر.",
+                "definition": "تُستخدم للإشارة إلى الطريق الذي يسلكه الناس أو المركبات."
+            }
+        },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_شتاء",
+                    "gloss": "شتاء: اسم يُشير إلى الفصل البارد من السنة.",
+                    "definition": "فصل من فصول السنة يتميز بانخفاض درجات الحرارة وهطول الأمطار."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_حضور",
+                    "gloss": "حضور: اسم يُعبر عن التواجد أو المشاركة.",
+                    "definition": "يشير إلى وجود الشخص في مكان معين أو مشاركته في حدث."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كتبي",
+                    "gloss": "كتبي: صفة تُنسب إلى الكتب.",
+                    "definition": "يدل على الشخص أو الشيء المرتبط بالكتب أو المكتبات."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_تعلم",
+                    "gloss": "تعلم: فعل يدل على اكتساب المعرفة.",
+                    "definition": "عملية تهدف إلى اكتساب المعلومات أو المهارات من خلال الدراسة أو الخبرة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_نظام",
+                    "gloss": "نظام: اسم يدل على الترتيب والتنظيم.",
+                    "definition": "يشير إلى مجموعة من القواعد أو الإجراءات التي تعمل معًا لتحقيق هدف."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_صبر",
+                    "gloss": "صبر: اسم يدل على التحمل وضبط النفس.",
+                    "definition": "يشير إلى القدرة على التحمل والصمود في مواجهة الصعوبات."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_حريص",
+                    "gloss": "حريص: صفة تدل على الاهتمام الشديد بشيء ما.",
+                    "definition": "يشير إلى الشخص الذي يهتم بشكل كبير بأداء مهمة أو تحقيق هدف."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_دخول",
+                    "gloss": "دخول: اسم يدل على عملية الدخول إلى مكان.",
+                    "definition": "يشير إلى الانتقال إلى داخل مكان معين أو البدء في شيء جديد."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_قسم",
+                    "gloss": "قسم: اسم يدل على جزء من شيء أكبر.",
+                    "definition": "يشير إلى وحدة فرعية ضمن مجموعة أو تنظيم معين."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_هدوء",
+                    "gloss": "هدوء: اسم يدل على السكون والسكينة.",
+                    "definition": "يشير إلى الحالة التي تخلو من الضجيج أو الاضطراب."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_صغير",
+                    "gloss": "صغير: صفة تدل على الحجم أو العمر القليل.",
+                    "definition": "يشير إلى الشيء أو الشخص الذي يقل حجمه أو عمره عن المعدل الطبيعي."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_رقيق",
+                    "gloss": "رقيق: صفة تدل على اللطافة أو النحافة.",
+                    "definition": "يشير إلى الشخص أو الشيء الذي يتميز باللطف أو الدقة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_فهم",
+                    "gloss": "فهم: اسم يدل على استيعاب المعنى أو الفكرة.",
+                    "definition": "عملية عقلية تهدف إلى إدراك وفهم شيء معين."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_محفظة",
+                    "gloss": "محفظة: اسم يدل على أداة لحفظ النقود أو الأوراق.",
+                    "definition": "يشير إلى الحقيبة الصغيرة المستخدمة لتخزين النقود أو الوثائق الشخصية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_مصنوع",
+                    "gloss": "مصنوع: صفة تدل على شيء تم إنجازه أو إنتاجه.",
+                    "definition": "يشير إلى الشيء الذي تم صنعه يدويًا أو آليًا."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_نظرة",
+                    "gloss": "نظرة: اسم يدل على لحظة من النظر.",
+                    "definition": "يشير إلى رؤية سريعة أو قصيرة لشيء أو شخص."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_زميل",
+                    "gloss": "زميل: اسم يدل على الشخص الذي يشاركك العمل أو الدراسة.",
+                    "definition": "يشير إلى الشخص الذي يعمل أو يدرس معك في نفس المكان."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_غسل",
+                    "gloss": "غسل: فعل يدل على تنظيف الشيء بالماء.",
+                    "definition": "عملية تهدف إلى إزالة الأوساخ باستخدام الماء أو الصابون."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_دفتر",
+                    "gloss": "دفتر: اسم يدل على مجموعة أوراق متصلة.",
+                    "definition": "يشير إلى مجموعة أوراق تُستخدم للكتابة أو التسجيل."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_أداة",
+                    "gloss": "أداة: اسم يدل على شيء يُستخدم لإنجاز مهمة.",
+                    "definition": "يشير إلى أداة تُستخدم للمساعدة في العمل أو الإنجاز."
+                }
+            },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_زاد",
+                        "gloss": "زاد: اسم يدل على الزيادة أو الإمداد.",
+                        "definition": "يشير إلى شيء يُضاف إلى شيء آخر لزيادة الكمية أو القيمة."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ثقة",
+                        "gloss": "ثقة: اسم يدل على الاطمئنان أو الاعتماد.",
+                        "definition": "يشير إلى الشعور بالأمان أو الاعتماد على شخص أو شيء معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_نفس",
+                        "gloss": "نفس: اسم يدل على الذات أو الروح.",
+                        "definition": "يشير إلى الشخص ذاته أو جوهر الكيان الحي."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_نتيجة",
+                        "gloss": "نتيجة: اسم يدل على ما يُستنتج من شيء ما.",
+                        "definition": "يشير إلى الحصيلة أو الأثر الناتج عن عمل أو حدث."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تفوق",
+                        "gloss": "تفوق: اسم يدل على التميز أو النجاح.",
+                        "definition": "يشير إلى الأداء الأفضل أو البراعة في مجال معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تلميذ",
+                        "gloss": "تلميذ: اسم يدل على الطالب أو المتعلم.",
+                        "definition": "يشير إلى الشخص الذي يتلقى التعليم في المدرسة أو لدى معلم."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_حمل",
+                        "gloss": "حمل: فعل يدل على رفع أو نقل شيء.",
+                        "definition": "يشير إلى الفعل الذي يتم فيه رفع أو نقل شيء من مكان إلى آخر."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تحمل",
+                        "gloss": "تحمل: فعل يدل على الصبر أو القدرة على التحمل.",
+                        "definition": "يشير إلى القدرة على مواجهة الصعاب أو تحمل المسؤوليات."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_فخر",
+                        "gloss": "فخر: اسم يدل على الشعور بالاعتزاز.",
+                        "definition": "يشير إلى الإحساس بالرضا والشرف بسبب تحقيق شيء ما."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أجمل",
+                        "gloss": "أجمل: اسم أو صفة تدل على الأكثر جمالًا.",
+                        "definition": "يشير إلى الشيء الذي يتميز بالجمال عن غيره."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_فوضى",
+                        "gloss": "فوضى: اسم يدل على الاضطراب وعدم النظام.",
+                        "definition": "يشير إلى الحالة التي تخلو من الترتيب والتنظيم."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_خروج",
+                        "gloss": "خروج: اسم يدل على الانتقال من الداخل إلى الخارج.",
+                        "definition": "يشير إلى الحركة التي تؤدي إلى مغادرة مكان معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_مندهش",
+                        "gloss": "مندهش: صفة تدل على الشعور بالمفاجأة.",
+                        "definition": "يشير إلى الشخص الذي يشعر بالدهشة نتيجة حدث غير متوقع."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_باني",
+                        "gloss": "باني: اسم يدل على الشخص الذي يقوم بالبناء.",
+                        "definition": "يشير إلى الشخص الذي ينشئ أو يشيد المباني أو الهياكل."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_كتب",
+                        "gloss": "كتب: فعل يدل على فعل الكتابة.",
+                        "definition": "يشير إلى الفعل الذي يتم فيه تسجيل الحروف أو الكلمات على الورق أو أي سطح آخر."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ميثاق",
+                        "gloss": "ميثاق: اسم يدل على الاتفاق أو العهد.",
+                        "definition": "يشير إلى الوثيقة أو الاتفاقية التي تنظم العلاقة بين الأطراف."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_سلوك",
+                        "gloss": "سلوك: اسم يدل على تصرفات الشخص.",
+                        "definition": "يشير إلى الطريقة التي يتصرف بها الشخص في موقف معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_مشين",
+                        "gloss": "مشين: صفة تدل على السلوك السيئ أو غير المقبول.",
+                        "definition": "يشير إلى التصرفات التي تُعتبر غير لائقة أو مخزية."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_واجب",
+                        "gloss": "واجب: اسم يدل على المسؤولية أو الالتزام.",
+                        "definition": "يشير إلى العمل الذي يجب على الشخص القيام به بموجب القانون أو الأخلاق."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_قاعدة",
+                        "gloss": "قاعدة: اسم يدل على الأساس أو المبدأ.",
+                        "definition": "يشير إلى الأساس الذي يقوم عليه النظام أو التصرف."
+                    }
+                },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_موعد",
+                            "gloss": "موعد: اسم يدل على الزمن المحدد للقاء أو حدث.",
+                            "definition": "يشير إلى الزمن أو التاريخ المحدد مسبقًا لحدث معين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_دراسة",
+                            "gloss": "دراسة: اسم يدل على التعلم أو البحث العلمي.",
+                            "definition": "يشير إلى النشاط المخصص لتحصيل المعرفة أو الفهم."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أستاذ",
+                            "gloss": "أستاذ: اسم يدل على الشخص الذي يعلم الآخرين.",
+                            "definition": "يشير إلى المعلم أو المحاضر في مؤسسة تعليمية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_محافظة",
+                            "gloss": "محافظة: اسم يدل على منطقة إدارية.",
+                            "definition": "يشير إلى وحدة جغرافية تدار إداريًا ضمن دولة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مرافق",
+                            "gloss": "مرافق: اسم يدل على البنى التحتية والخدمات.",
+                            "definition": "يشير إلى الأماكن أو الخدمات التي تخدم المجتمع مثل الطرق والمدارس."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_سمح",
+                            "gloss": "سمح: فعل يدل على الإذن أو الموافقة.",
+                            "definition": "يشير إلى إعطاء الإذن للقيام بشيء معين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_وسيلة",
+                            "gloss": "وسيلة: اسم يدل على الأداة أو الطريقة.",
+                            "definition": "يشير إلى الأداة أو الطريقة المستخدمة لتحقيق غاية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_شوش",
+                            "gloss": "شوش: فعل يدل على الإرباك أو التشويش.",
+                            "definition": "يشير إلى التسبب في الإرباك أو الفوضى في الوضع."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تربية",
+                            "gloss": "تربية: اسم يدل على الرعاية والتعليم.",
+                            "definition": "يشير إلى تنشئة الأطفال أو تطوير سلوكهم ومعرفتهم."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تمتع",
+                            "gloss": "تمتع: فعل يدل على الاستمتاع بشيء.",
+                            "definition": "يشير إلى الشعور بالسعادة أو السرور عند استخدام أو تجربة شيء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أمان",
+                            "gloss": "أمان: اسم يدل على الشعور بالأمان أو الطمأنينة.",
+                            "definition": "يشير إلى غياب الخطر أو التهديد في البيئة المحيطة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تقدير",
+                            "gloss": "تقدير: اسم يدل على الاحترام أو التقييم.",
+                            "definition": "يشير إلى الاحترام الذي يُظهر لشخص ما أو شيء ما، أو تقييم قيمته."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مشاركة",
+                            "gloss": "مشاركة: اسم يدل على الانخراط في عمل أو نشاط مع الآخرين.",
+                            "definition": "يشير إلى العمل أو النشاط الذي يتم بالتعاون مع الآخرين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_نشاط",
+                            "gloss": "نشاط: اسم يدل على الحركة أو العمل.",
+                            "definition": "يشير إلى الفعل الذي يتطلب جهداً أو تفاعلًا."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_خلق",
+                            "gloss": "خلق: فعل يدل على الإبداع أو الإنشاء.",
+                            "definition": "يشير إلى القدرة على إبداع شيء جديد أو إنتاج شيء موجود."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_ٱلتقاء",
+                            "gloss": "ٱلتقاء: اسم يدل على الاجتماع أو اللقاء.",
+                            "definition": "يشير إلى الالتقاء بين الأشخاص أو الأشياء في مكان معين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_قرن",
+                            "gloss": "قرن: اسم يدل على فترة زمنية مكونة من مائة عام.",
+                            "definition": "يشير إلى وحدة زمنية تعادل مائة سنة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_وقة",
+                            "gloss": "وقة: اسم يدل على نوع من الوزن أو الكمية.",
+                            "definition": "يشير إلى وحدة قياس تستخدم لتحديد الكمية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مبالي",
+                            "gloss": "مبالي: صفة تدل على الشخص الذي يهتم.",
+                            "definition": "يشير إلى الشخص الذي يُظهر اهتمامًا بشيء أو شخص معين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_ٱحترام",
+                            "gloss": "ٱحترام: اسم يدل على التقدير أو الإجلال.",
+                            "definition": "يشير إلى الشعور أو التصرف الذي يظهر التقدير لشخص أو شيء ما."
+                        }
+                    },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_ٱنضباط",
+                                "gloss": "ٱنضباط: اسم يدل على الالتزام بالنظام أو القواعد.",
+                                "definition": "يشير إلى السلوك الذي يتسم بالتنظيم والالتزام بالقواعد المحددة."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_عائش",
+                                "gloss": "عائش: صفة تدل على الشخص الذي يعيش أو يحيى.",
+                                "definition": "يشير إلى الشخص الموجود في حالة حياة أو يعيش في بيئة معينة."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_هادئ",
+                                "gloss": "هادئ: صفة تدل على الهدوء أو السكينة.",
+                                "definition": "يشير إلى الشخص أو المكان الذي يتسم بالسلام أو خلوه من الضجيج."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_ٱزداد",
+                                "gloss": "ٱزداد: فعل يدل على الزيادة أو النمو.",
+                                "definition": "يشير إلى التحسن أو الزيادة في كمية أو مستوى شيء ما."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_ٱهتمام",
+                                "gloss": "ٱهتمام: اسم يدل على التركيز أو الرعاية.",
+                                "definition": "يشير إلى الشعور بالرغبة أو العناية بشيء معين أو شخص."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_قرأ",
+                                "gloss": "قرأ: فعل يدل على الاطلاع على النصوص المكتوبة.",
+                                "definition": "يشير إلى عملية النظر في الكلمات المكتوبة وفهم معانيها."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_ٱستعمال",
+                                "gloss": "ٱستعمال: اسم يدل على الاستخدام أو التطبيق.",
+                                "definition": "يشير إلى استخدام شيء لأداء غرض معين."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_ٱتصال",
+                                "gloss": "ٱتصال: اسم يدل على التفاعل أو التواصل.",
+                                "definition": "يشير إلى عملية التفاعل بين الأشخاص أو نقل المعلومات."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_فصلي",
+                                "gloss": "فصلي: صفة تتعلق بالفصول أو الأقسام.",
+                                "definition": "يشير إلى شيء متعلق بالفصول الدراسية أو تقسيم الوقت."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_درب",
+                                "gloss": "درب: اسم يدل على الطريق أو المسار.",
+                                "definition": "يشير إلى الطريق الذي يُسلك للوصول إلى مكان ما."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_قضى",
+                                "gloss": "قضى: فعل يدل على الانتهاء أو إكمال شيء.",
+                                "definition": "يشير إلى تنفيذ مهمة أو إتمام عمل معين."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_أجمل",
+                                "gloss": "أجمل: اسم يدل على الأكثر جمالاً أو حسنًا.",
+                                "definition": "يشير إلى الشيء أو الشخص الذي يُعتبر الأكثر جمالاً."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_نبع",
+                                "gloss": "نبع: فعل يدل على التدفق أو الظهور.",
+                                "definition": "يشير إلى مصدر أو تدفق الماء من الأرض أو ظهور شيء جديد."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_نهل",
+                                "gloss": "نهل: فعل يدل على الشرب أو الاستفادة من شيء.",
+                                "definition": "يشير إلى الأخذ أو التعلم بكثرة من مصدر معين."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_مكان",
+                                "gloss": "مكان: اسم يدل على الموقع أو الموضع.",
+                                "definition": "يشير إلى موقع جغرافي أو مساحة محددة."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_صديق",
+                                "gloss": "صديق: اسم يدل على شخص مقرب ذو علاقة طيبة.",
+                                "definition": "يشير إلى شخص تُقام معه علاقة ودية تعتمد على الثقة والتفاهم."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_أضحى",
+                                "gloss": "أضحى: فعل يدل على التحول إلى حالة معينة.",
+                                "definition": "يشير إلى الدخول في وضع جديد أو التحول إليه."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_درس",
+                                "gloss": "درس: اسم يدل على جلسة تعليمية أو تعلُّم.",
+                                "definition": "يشير إلى الحصة أو النشاط التعليمي المخصص للتعلم."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_روى",
+                                "gloss": "روى: فعل يدل على السرد أو نقل قصة.",
+                                "definition": "يشير إلى الإخبار أو نقل الأحداث بطريقة شيقة."
+                            }
+                        },
+                        {
+                            "model": "knowledge.glossary",
+                            "fields": {
+                                "node": "KC_Vocab_بيت",
+                                "gloss": "بيت: اسم يدل على المكان الذي يعيش فيه الشخص.",
+                                "definition": "يشير إلى المكان المخصص للسكن والإقامة."
+                            }
+                        },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_معلم",
+                                    "gloss": "معلم: اسم يدل على الشخص الذي يدرّس أو ينقل المعرفة.",
+                                    "definition": "يشير إلى الشخص الذي يُقدم التعليم أو الإرشاد في مجال معين."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_أم",
+                                    "gloss": "أم: اسم يدل على الوالدة أو المرأة التي أنجبت.",
+                                    "definition": "يشير إلى المرأة التي تُربي وتعتني بأطفالها."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_آباء",
+                                    "gloss": "آباء: اسم يدل على الوالدين أو الرجال الذين لديهم أبناء.",
+                                    "definition": "يشير إلى الأفراد الذين أنجبوا ويرعون أطفالهم."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_بساط",
+                                    "gloss": "بساط: اسم يدل على السجادة أو الغطاء الأرضي.",
+                                    "definition": "يشير إلى قطعة من القماش أو المواد المستخدمة لتغطية الأرض."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_قرية",
+                                    "gloss": "قرية: اسم يدل على تجمع سكاني صغير في منطقة ريفية.",
+                                    "definition": "يشير إلى مكان صغير يعيش فيه عدد محدود من الناس."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_جميل",
+                                    "gloss": "جميل: صفة تدل على الحُسن أو الجاذبية.",
+                                    "definition": "يشير إلى الشيء الذي يثير الإعجاب بجماله."
+                                }
+                            },
+                            {
+                                "model": "knowledge.glossary",
+                                "fields": {
+                                    "node": "KC_Vocab_متواضع",
+                                    "gloss": "متواضع: صفة تدل على البساطة أو التواضع.",
+        "definition": "يشير إلى الشخص الذي لا يتفاخر أو الشيء الذي يتميز بالبساطة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_نافذة",
+                            "gloss": "نافذة: اسم يدل على الفتحة في الجدار لدخول الضوء أو الهواء.",
+                            "definition": "يشير إلى عنصر معماري يُستخدم للإضاءة أو التهوية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_ٱنفتح",
+                            "gloss": "ٱنفتح: فعل يدل على الفتح أو التوسع.",
+                            "definition": "يشير إلى عملية فتح شيء مغلق أو توسيعه."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_حر",
+                            "gloss": "حر: صفة تدل على الاستقلال أو الدفء.",
+                            "definition": "يشير إلى الشخص المستقل أو الجو الدافئ."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مطر",
+                            "gloss": "مطر: اسم يدل على الماء الذي يسقط من السماء.",
+                            "definition": "يشير إلى ظاهرة طبيعية تتمثل في تساقط قطرات الماء من السحب."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تأبط",
+                            "gloss": "تأبط: فعل يدل على حمل الشيء تحت الإبط.",
+                            "definition": "يشير إلى الطريقة التي يُحمل بها الشيء بواسطة الذراع."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_سعى",
+                            "gloss": "سعى: فعل يدل على الجهد أو المحاولة لتحقيق هدف.",
+                            "definition": "يشير إلى بذل الجهد للوصول إلى نتيجة معينة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_زمن",
+                            "gloss": "زمن: اسم يدل على الوقت أو الفترة.",
+                            "definition": "يشير إلى المدة أو الحقبة التي تحدث فيها الأحداث."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_ٱنصراف",
+                            "gloss": "ٱنصراف: اسم يدل على المغادرة أو الانصراف.",
+                            "definition": "يشير إلى ترك المكان أو إنهاء التواجد فيه."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_فتاة",
+                            "gloss": "فتاة: اسم يدل على المرأة الشابة.",
+                            "definition": "يشير إلى أنثى في مرحلة الشباب."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_نبيه",
+                            "gloss": "نبيه: صفة تدل على الذكاء أو الفطنة.",
+                            "definition": "يشير إلى الشخص الذي يتميز بالذكاء وسرعة الفهم."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_قماش",
+                            "gloss": "قماش: اسم يدل على المادة المنسوجة المستخدمة في الملابس.",
+                            "definition": "يشير إلى المواد التي تُصنع منها الألبسة أو الأدوات."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_خجل",
+                            "gloss": "خجل: اسم يدل على الشعور بالخوف أو الحياء.",
+                            "definition": "يشير إلى الإحساس بالحرج أو التردد في المواقف الاجتماعية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_كي",
+                            "gloss": "كي: فعل يدل على تسوية القماش بالحرارة.",
+                            "definition": "يشير إلى استخدام الحرارة لإزالة التجاعيد من الملابس."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أودع",
+                            "gloss": "أودع: فعل يدل على وضع شيء في مكان معين.",
+                            "definition": "يشير إلى وضع شيء للحفظ أو التخزين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_ظهر",
+                            "gloss": "ظهر: اسم يدل على الجزء الخلفي من الجسم أو شيء ما.",
+                            "definition": "يشير إلى الجزء العلوي الخلفي من الجسم أو سطح الشيء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_كأن",
+                            "gloss": "كأن: أداة تستخدم للتشبيه أو التصور.",
+                            "definition": "يشير إلى صيغة تشبيهية تربط بين حالتين أو وصفين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تعالى",
+                            "gloss": "تعالى: فعل يدل على النداء أو الدعوة للحضور.",
+                            "definition": "يشير إلى دعوة شخص للمجيء أو الاقتراب."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أبناء",
+                            "gloss": "أبناء: اسم يدل على الأولاد أو الأطفال.",
+                            "definition": "يشير إلى الذكور أو الإناث الذين أنجبهم الآباء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_عاد",
+                            "gloss": "عاد: فعل يدل على الرجوع أو العودة.",
+                            "definition": "يشير إلى الرجوع إلى مكان أو حالة سابقة."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مثل",
+                            "gloss": "مثل: أداة تدل على التشابه أو المطابقة.",
+                            "definition": "يشير إلى وصف حالة أو شيء مشابه لشيء آخر."
+                        }
+                    }
+                    ]
+                        
+                                            
+                                        
+                        
+                                    
+                                    
+                     

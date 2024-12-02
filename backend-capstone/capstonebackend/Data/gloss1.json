@@ -1,0 +1,757 @@
+[
+    
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_كل",
+                "gloss": "كل: أداة شمول تُستخدم للدلالة على الجميع.",
+                "definition": "تشير إلى مفهوم التعميم أو الشمول لكل العناصر."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_عام",
+                "gloss": "عام: اسم يُستخدم للدلالة على السنة.",
+                "definition": "يدل على وحدة زمنية تعادل 365 يومًا."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_بعيد",
+                "gloss": "بعيد: صفة تعني على مسافة كبيرة.",
+                "definition": "تُستخدم للإشارة إلى شيء غير قريب في المكان أو الزمان."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_ميلاد",
+                "gloss": "ميلاد: اسم يشير إلى وقت الولادة.",
+                "definition": "يدل على بداية الحياة أو حدث تاريخي."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_علّق",
+                "gloss": "علّق: فعل يُستخدم للتعبير عن تعليق شيء.",
+                "definition": "يدل على وضع شيء في مكان معين أو تقديم رأي."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_تمنّى",
+                "gloss": "تمنّى: فعل يدل على الرغبة في تحقيق شيء.",
+                "definition": "يُستخدم للتعبير عن الأمل أو الطموح."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_ما",
+                "gloss": "ما: أداة استفهام أو نفي.",
+                "definition": "تُستخدم للسؤال عن شيء أو لنفيه."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حلّ",
+                "gloss": "حلّ: فعل يدل على فك المشكلة.",
+                "definition": "يُستخدم للإشارة إلى إيجاد حل لمشكلة أو لغز."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_جديد",
+                "gloss": "جديد: صفة تدل على شيء لم يُستخدم من قبل.",
+                "definition": "تُشير إلى شيء حديث أو غير مألوف."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حمل",
+                "gloss": "حمل: فعل يدل على نقل شيء.",
+                "definition": "يُستخدم للإشارة إلى رفع أو نقل الأشياء."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_قال",
+                "gloss": "قال: فعل ماضٍ يُستخدم للتعبير عن النطق.",
+                "definition": "يُشير إلى الكلام الذي صدر من شخص."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_كان",
+                "gloss": "كان: فعل ماضٍ يدل على وجود شيء.",
+                "definition": "يُعبر عن وجود شيء ما في الزمن الماضي."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_عذر",
+                "gloss": "عذر: اسم يُشير إلى سبب لتبرير خطأ.",
+                "definition": "يُستخدم لتقديم مبرر أو تفسير."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_ظرف",
+                "gloss": "ظرف: اسم يدل على حاوية صغيرة أو حالة.",
+                "definition": "يُستخدم للإشارة إلى مغلف ورقي أو حالة محددة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_زيارة",
+                "gloss": "زيارة: اسم يُشير إلى زيارة مكان أو شخص.",
+                "definition": "تُستخدم للإشارة إلى الذهاب إلى مكان معين أو مقابلة شخص."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_جدّة",
+                "gloss": "جدّة: اسم يدل على أم الأب أو الأم.",
+                "definition": "تُستخدم للإشارة إلى الجدة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_عمة",
+                "gloss": "عمة: اسم يدل على أخت الأب.",
+                "definition": "تُستخدم للإشارة إلى علاقة الأسرة."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_مريض",
+                "gloss": "مريض: صفة تشير إلى شخص يعاني من مرض.",
+                "definition": "يُستخدم لوصف الحالة الصحية."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_حديقة",
+                "gloss": "حديقة: اسم يدل على مساحة خضراء.",
+                "definition": "تُستخدم للإشارة إلى مكان مزروع بالأشجار والزهور."
+            }
+        },
+        {
+            "model": "knowledge.glossary",
+            "fields": {
+                "node": "KC_Vocab_شجرة",
+                "gloss": "شجرة: اسم يُشير إلى نبات خشبي كبير.",
+                "definition": "تُستخدم للإشارة إلى النباتات التي تُزرع في الأرض."
+            }
+        },
+        
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كل",
+                    "gloss": "كل: أداة شمول تُستخدم للدلالة على الجميع.",
+                    "definition": "تشير إلى مفهوم التعميم أو الشمول لكل العناصر."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عام",
+                    "gloss": "عام: اسم يُستخدم للدلالة على السنة.",
+                    "definition": "يدل على وحدة زمنية تعادل 365 يومًا."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_بعيد",
+                    "gloss": "بعيد: صفة تعني على مسافة كبيرة.",
+                    "definition": "تُستخدم للإشارة إلى شيء غير قريب في المكان أو الزمان."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_ميلاد",
+                    "gloss": "ميلاد: اسم يشير إلى وقت الولادة.",
+                    "definition": "يدل على بداية الحياة أو حدث تاريخي."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_علّق",
+                    "gloss": "علّق: فعل يُستخدم للتعبير عن تعليق شيء.",
+                    "definition": "يدل على وضع شيء في مكان معين أو تقديم رأي."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_تمنّى",
+                    "gloss": "تمنّى: فعل يدل على الرغبة في تحقيق شيء.",
+                    "definition": "يُستخدم للتعبير عن الأمل أو الطموح."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_ما",
+                    "gloss": "ما: أداة استفهام أو نفي.",
+                    "definition": "تُستخدم للسؤال عن شيء أو لنفيه."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_حلّ",
+                    "gloss": "حلّ: فعل يدل على فك المشكلة.",
+                    "definition": "يُستخدم للإشارة إلى إيجاد حل لمشكلة أو لغز."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_جديد",
+                    "gloss": "جديد: صفة تدل على شيء لم يُستخدم من قبل.",
+                    "definition": "تُشير إلى شيء حديث أو غير مألوف."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_حمل",
+                    "gloss": "حمل: فعل يدل على نقل شيء.",
+                    "definition": "يُستخدم للإشارة إلى رفع أو نقل الأشياء."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_قال",
+                    "gloss": "قال: فعل ماضٍ يُستخدم للتعبير عن النطق.",
+                    "definition": "يُشير إلى الكلام الذي صدر من شخص."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كان",
+                    "gloss": "كان: فعل ماضٍ يدل على وجود شيء.",
+                    "definition": "يُعبر عن وجود شيء ما في الزمن الماضي."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عذر",
+                    "gloss": "عذر: اسم يُشير إلى سبب لتبرير خطأ.",
+                    "definition": "يُستخدم لتقديم مبرر أو تفسير."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_ظرف",
+                    "gloss": "ظرف: اسم يدل على حاوية صغيرة أو حالة.",
+                    "definition": "يُستخدم للإشارة إلى مغلف ورقي أو حالة محددة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_زيارة",
+                    "gloss": "زيارة: اسم يُشير إلى زيارة مكان أو شخص.",
+                    "definition": "تُستخدم للإشارة إلى الذهاب إلى مكان معين أو مقابلة شخص."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_جدّة",
+                    "gloss": "جدّة: اسم يدل على أم الأب أو الأم.",
+                    "definition": "تُستخدم للإشارة إلى الجدة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عمة",
+                    "gloss": "عمة: اسم يدل على أخت الأب.",
+                    "definition": "تُستخدم للإشارة إلى علاقة الأسرة."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_مريض",
+                    "gloss": "مريض: صفة تشير إلى شخص يعاني من مرض.",
+                    "definition": "يُستخدم لوصف الحالة الصحية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_حديقة",
+                    "gloss": "حديقة: اسم يدل على مساحة خضراء.",
+                    "definition": "تُستخدم للإشارة إلى مكان مزروع بالأشجار والزهور."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_شجرة",
+                    "gloss": "شجرة: اسم يُشير إلى نبات خشبي كبير.",
+                    "definition": "تُستخدم للإشارة إلى النباتات التي تُزرع في الأرض."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_غرس",
+                    "gloss": "غرس: فعل يُشير إلى زراعة النباتات.",
+                    "definition": "يُستخدم للتعبير عن وضع نبات في التربة للنمو."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_شتلة",
+                    "gloss": "شتلة: اسم يدل على نبات صغير يُزرع.",
+                    "definition": "تشير إلى نبات في بداية نموه يُزرع في الأرض."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_نظم",
+                    "gloss": "نظم: فعل يدل على ترتيب الأشياء بشكل منظم.",
+                    "definition": "يُستخدم للإشارة إلى التنظيم أو الترتيب."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_مسابقة",
+                    "gloss": "مسابقة: اسم يشير إلى منافسة بين أفراد أو فرق.",
+                    "definition": "تُستخدم للإشارة إلى نشاط تنافسي."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_كافأ",
+                    "gloss": "كافأ: فعل يدل على إعطاء مكافأة.",
+                    "definition": "يُستخدم للتعبير عن تقديم مكافأة مقابل عمل جيد."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_هواية",
+                    "gloss": "هواية: اسم يدل على نشاط يُمارَس للمتعة.",
+                    "definition": "تُستخدم للإشارة إلى نشاط يُمارَس كهواية شخصية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_رسم",
+                    "gloss": "رسم: فعل يدل على إنشاء صورة باستخدام أدوات فنية.",
+                    "definition": "يُشير إلى عمل إبداعي يُنتج باليد أو الأدوات."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_لعب",
+                    "gloss": "لعب: فعل يدل على ممارسة نشاط ترفيهي.",
+                    "definition": "يُستخدم للإشارة إلى الأنشطة الترفيهية أو الرياضية."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_خصص",
+                    "gloss": "خصص: فعل يدل على تخصيص شيء لغرض معين.",
+                    "definition": "يُستخدم للإشارة إلى تعيين أو تخصيص شيء."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_عناية",
+                    "gloss": "عناية: اسم يدل على الاهتمام والرعاية.",
+                    "definition": "تُستخدم للإشارة إلى الاهتمام بشيء أو شخص."
+                }
+            },
+            {
+                "model": "knowledge.glossary",
+                "fields": {
+                    "node": "KC_Vocab_متعة",
+                    "gloss": "متعة: اسم يدل على الشعور بالسعادة أو السرور.",
+                    "definition": "تُستخدم للإشارة إلى شعور إيجابي ناتج عن تجربة ممتعة."
+                }
+            },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ٱحتفل",
+                        "gloss": "ٱحتفل: فعل يدل على إقامة احتفال.",
+                        "definition": "يُستخدم للتعبير عن تنظيم حدث احتفالي."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تصنع",
+                        "gloss": "تصنع: فعل يدل على إنتاج أو إنشاء شيء.",
+                        "definition": "يُستخدم للإشارة إلى عملية الصناعة أو الإبداع."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_زينة",
+                        "gloss": "زينة: اسم يدل على أشياء تُستخدم للزخرفة.",
+                        "definition": "تُستخدم للإشارة إلى أدوات الزينة التي تضفي جمالًا."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_هذا",
+                        "gloss": "هذا: أداة إشارة للمفرد المذكر.",
+                        "definition": "تُستخدم للإشارة إلى شيء قريب في الزمن أو المكان."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ل",
+                        "gloss": "ل: حرف جر يدل على الملكية أو الغاية.",
+                        "definition": "يُستخدم للتعبير عن الغرض أو التخصيص."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_معلوم",
+                        "gloss": "معلوم: صفة تشير إلى شيء معروف.",
+                        "definition": "تُستخدم للإشارة إلى شيء تم التعرف عليه أو إدراكه."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أهدى",
+                        "gloss": "أهدى: فعل يدل على تقديم هدية.",
+                        "definition": "يُستخدم للتعبير عن منح شيء لشخص كهدية."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_تقبل",
+                        "gloss": "تقبل: فعل يدل على قبول شيء.",
+                        "definition": "يُستخدم للإشارة إلى القبول أو الموافقة على شيء."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_شاكر",
+                        "gloss": "شاكر: اسم يدل على الشخص الذي يُظهر الامتنان.",
+                        "definition": "يُستخدم للإشارة إلى شخص يعبر عن شكره."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أخذ",
+                        "gloss": "أخذ: فعل يدل على الإمساك بشيء.",
+                        "definition": "يُستخدم للإشارة إلى عملية الحصول على شيء."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_شكر",
+                        "gloss": "شكر: فعل يدل على إظهار الامتنان.",
+                        "definition": "يُستخدم للتعبير عن التقدير لشخص أو عمل."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_لكن",
+                        "gloss": "لكن: حرف عطف يدل على الاستدراك.",
+                        "definition": "يُستخدم لإظهار التناقض بين جملتين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_قرأ",
+                        "gloss": "قرأ: فعل يدل على قراءة النصوص.",
+                        "definition": "يُستخدم للإشارة إلى عملية القراءة أو فهم النصوص."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_مشي",
+                        "gloss": "مشي: فعل يدل على الحركة بالأقدام.",
+                        "definition": "يُستخدم للإشارة إلى التنقل سيرًا على الأقدام."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ركبة",
+                        "gloss": "ركبة: اسم يدل على المفصل بين الفخذ والساق.",
+                        "definition": "تُستخدم للإشارة إلى جزء من جسم الإنسان أو الحيوان."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أم",
+                        "gloss": "أم: اسم يدل على الوالدة.",
+                        "definition": "تُستخدم للإشارة إلى المرأة التي أنجبت الأطفال."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_فطيرة",
+                        "gloss": "فطيرة: اسم يدل على نوع من المخبوزات.",
+                        "definition": "تُستخدم للإشارة إلى طعام محشو أو مسطح يُخبز."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_لذيذ",
+                        "gloss": "لذيذ: صفة تشير إلى شيء طعمه ممتع.",
+                        "definition": "تُستخدم لوصف الأطعمة التي تكون محبوبة أو شهية."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أب",
+                        "gloss": "أب: اسم يدل على الوالد الذكر.",
+                        "definition": "يُستخدم للإشارة إلى الرجل الذي أنجب الأطفال."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_في",
+                        "gloss": "في: حرف جر يدل على المكان أو الزمان.",
+                        "definition": "تُستخدم للإشارة إلى وجود شيء داخل مكان أو وقت معين."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_نحو",
+                        "gloss": "نحو: اسم يدل على الاتجاه أو القواعد النحوية.",
+                        "definition": "تُستخدم للإشارة إلى حركة نحو مكان أو مجال دراسة النحو."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_بيت",
+                        "gloss": "بيت: اسم يدل على مكان للسكنى.",
+                        "definition": "يُستخدم للإشارة إلى مكان يُستخدم للإقامة."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أن",
+                        "gloss": "أن: أداة ربط تُستخدم لتوضيح السبب أو النتيجة.",
+                        "definition": "تُستخدم للإشارة إلى التفصيل أو التفسير في الجملة."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ٱشترى",
+                        "gloss": "ٱشترى: فعل يدل على شراء شيء.",
+                        "definition": "يُستخدم للإشارة إلى عملية تبادل المال مقابل السلع."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_والد",
+                        "gloss": "والد: اسم يدل على الرجل الذي له أطفال.",
+                        "definition": "تُستخدم للإشارة إلى الرجل الذي أنجب الأطفال."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_دراجة",
+                        "gloss": "دراجة: اسم يدل على وسيلة نقل بعجلتين.",
+                        "definition": "تُستخدم للإشارة إلى مركبة يتم قيادتها بالدواسات."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_يوم",
+                        "gloss": "يوم: اسم يدل على فترة زمنية مدتها 24 ساعة.",
+                        "definition": "يُستخدم للإشارة إلى اليوم في التقويم أو في الحياة اليومية."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_ثوب",
+                        "gloss": "ثوب: اسم يدل على الملابس التي تُلبس.",
+                        "definition": "تُستخدم للإشارة إلى قطعة من القماش تُلبس لتغطية الجسم."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أقبل",
+                        "gloss": "أقبل: فعل يدل على الاقتراب أو المجيء.",
+                        "definition": "يُستخدم للإشارة إلى الحركة نحو مكان أو هدف."
+                    }
+                },
+                {
+                    "model": "knowledge.glossary",
+                    "fields": {
+                        "node": "KC_Vocab_أبي",
+                        "gloss": "أبي: اسم يدل على والدي المتكلم.",
+                        "definition": "تُستخدم للإشارة إلى الأب بصيغة المتحدث."
+                    }
+                },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مسجل",
+                            "gloss": "مسجل: اسم يدل على جهاز يُستخدم لتسجيل الأصوات أو الفيديو.",
+                            "definition": "يُستخدم للإشارة إلى الأداة التي تحفظ البيانات الصوتية أو المرئية."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_فتور",
+                            "gloss": "فتور: اسم يدل على الضعف أو التراخي.",
+                            "definition": "تُستخدم للإشارة إلى قلة النشاط أو الحماس."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أراد",
+                            "gloss": "أراد: فعل يدل على الرغبة أو النية.",
+                            "definition": "يُستخدم للإشارة إلى وجود هدف أو رغبة لتحقيق شيء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_لدى",
+                            "gloss": "لدى: حرف جر يدل على الملكية أو الوجود.",
+                            "definition": "تُستخدم للإشارة إلى امتلاك أو قرب شيء معين."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_إزاء",
+                            "gloss": "إزاء: ظرف يدل على المواجهة أو المقابلة.",
+                            "definition": "تُستخدم للإشارة إلى شيء يكون مقابلاً أو مواجهاً."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_عاد",
+                            "gloss": "عاد: فعل يدل على الرجوع إلى مكان أو حالة.",
+                            "definition": "يُستخدم للإشارة إلى العودة بعد الابتعاد أو الغياب."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_مساء",
+                            "gloss": "مساء: اسم يدل على الفترة الزمنية بين العصر والليل.",
+                            "definition": "تُستخدم للإشارة إلى وقت معين في نهاية اليوم."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_وجد",
+                            "gloss": "وجد: فعل يدل على العثور على شيء.",
+                            "definition": "يُستخدم للإشارة إلى اكتشاف أو إيجاد شيء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_شذب",
+                            "gloss": "شذب: فعل يدل على تقليم أو ترتيب شيء.",
+                            "definition": "يُستخدم للإشارة إلى إزالة الزوائد لتحسين الشكل."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_تنزه",
+                            "gloss": "تنزه: فعل يدل على التمتع بالمشي في الهواء الطلق.",
+                            "definition": "يُستخدم للإشارة إلى قضاء الوقت في الطبيعة للراحة والاسترخاء."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_متاعب",
+                            "gloss": "متاعب: اسم يدل على المشكلات أو الصعوبات.",
+                            "definition": "تُستخدم للإشارة إلى الأمور التي تسبب الضيق أو الإرهاق."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_أمن",
+                            "gloss": "أمن: اسم يدل على السلامة والحماية.",
+                            "definition": "تُستخدم للإشارة إلى حالة خالية من المخاطر أو التهديدات."
+                        }
+                    },
+                    {
+                        "model": "knowledge.glossary",
+                        "fields": {
+                            "node": "KC_Vocab_سلم",
+                            "gloss": "سلم: اسم يدل على السلام أو التصالح.",
+                            "definition": "تُستخدم للإشارة إلى حالة من التفاهم أو التعاون بين الأطراف."
+                        }
+                    }
+                
+]
