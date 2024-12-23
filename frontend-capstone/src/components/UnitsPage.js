@@ -146,7 +146,7 @@ const UnitsPage = () => {
   };
 
   const renderTexts = () => (
-    <Box sx={{ mt: 5 }}>
+    <Box sx={{ mt: 5, px: { xs: 2, sm: 5 } }}>
       <Typography
         variant="h5"
         sx={{
@@ -158,63 +158,81 @@ const UnitsPage = () => {
       >
         Texts in {selectedUnitTitle}
       </Typography>
-      <Grid container spacing={3} justifyContent="center">
+      <Box
+        sx={{
+          display: "flex",
+          flexDirection: "column",
+          gap: 2, // Spacing between text items
+          alignItems: "center", // Center the list
+        }}
+      >
         {texts.map((text) => (
-          <Grid item xs={12} sm={6} md={4} key={text.id}>
-            <Paper
-              elevation={3}
+          <Paper
+            key={text.id}
+            elevation={3}
+            sx={{
+              width: "100%",
+              maxWidth: "600px", // Optional: Limit the width for better readability
+              p: 2,
+              textAlign: "center",
+              borderRadius: "10px",
+              cursor: "pointer",
+              transition:
+                "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out",
+              "&:hover": {
+                transform: "scale(1.03)",
+                boxShadow: "0 6px 15px rgba(0, 0, 0, 0.2)",
+              },
+            }}
+            onClick={() => handleTextClick(text.id)}
+          >
+            <Typography
+              variant="h6"
               sx={{
-                p: 2,
-                textAlign: "center",
-                borderRadius: "10px",
-                cursor: "pointer",
-                transition:
-                  "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out",
-                "&:hover": {
-                  transform: "scale(1.03)",
-                  boxShadow: "0 6px 15px rgba(0, 0, 0, 0.2)",
-                },
+                fontWeight: "bold",
+                color: "#001E3C",
               }}
-              onClick={() => handleTextClick(text.id)}
             >
-              <Typography
-                variant="h6"
-                sx={{
-                  fontWeight: "bold",
-                  color: "#001E3C",
-                }}
-              >
-                {text.title}
-              </Typography>
-            </Paper>
-            <Box
-              sx={{
-                mt: 2,
-                textAlign: "center",
-                p: 1,
-                borderRadius: "10px",
-                backgroundColor: "#000",
-                color: "#fff",
-                cursor: "pointer",
-                transition:
-                  "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out",
-                "&:hover": {
-                  backgroundColor: "#6f84ea",
-                  transform: "scale(1.03)",
-                  boxShadow: "0 6px 15px rgba(0, 0, 0, 0.3)",
-                },
-              }}
-              onClick={() => handleQuizClick(text.unit, text.grade)}
-            >
-              <Typography variant="h6" sx={{ fontWeight: "bold" }}>
-                Unit Progress Quiz
-              </Typography>
-            </Box>
-          </Grid>
+              {text.title}
+            </Typography>
+          </Paper>
         ))}
-      </Grid>
+      </Box>
+      {/* Render the quiz button only once */}
+      {texts.length > 0 && (
+        <Box
+          sx={{
+            mt: 5,
+            textAlign: "center",
+            p: 2,
+            borderRadius: "10px",
+            backgroundColor: "#000",
+            color: "#fff",
+            cursor: "pointer",
+            transition:
+              "transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out",
+            "&:hover": {
+              backgroundColor: "#6f84ea",
+              transform: "scale(1.03)",
+              boxShadow: "0 6px 15px rgba(0, 0, 0, 0.3)",
+            },
+          }}
+          onClick={() =>
+            handleQuizClick(
+              texts[0]?.unit, // Use the unit of the first text
+              texts[0]?.grade // Use the grade of the first text
+            )
+          }
+        >
+          <Typography variant="h6" sx={{ fontWeight: "bold" }}>
+            Unit Progress Quiz
+          </Typography>
+        </Box>
+      )}
     </Box>
   );
+  
+  
 
   return (
     <Box
@@ -244,7 +262,7 @@ const UnitsPage = () => {
                 color: "#FFF",
               }}
             >
-              Units Page
+              Learning Page
             </Typography>
           </Toolbar>
         </AppBar>

@@ -1,0 +1,2802 @@
+[
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_زار",
+            "description": "Vocabulary for KC_Vocab_زار",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جد",
+            "description": "Vocabulary for KC_Vocab_جد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فلاح",
+            "description": "Vocabulary for KC_Vocab_فلاح",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عطلة",
+            "description": "Vocabulary for KC_Vocab_عطلة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عند",
+            "description": "Vocabulary for KC_Vocab_عند",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قلب",
+            "description": "Vocabulary for KC_Vocab_قلب",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أرض",
+            "description": "Vocabulary for KC_Vocab_أرض",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_زرع",
+            "description": "Vocabulary for KC_Vocab_زرع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جنى",
+            "description": "Vocabulary for KC_Vocab_جنى",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فاكهة",
+            "description": "Vocabulary for KC_Vocab_فاكهة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_رمان",
+            "description": "Vocabulary for KC_Vocab_رمان",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جني",
+            "description": "Vocabulary for KC_Vocab_جني",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_غرس",
+            "description": "Vocabulary for KC_Vocab_غرس",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ماشي",
+            "description": "Vocabulary for KC_Vocab_ماشي",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كان",
+            "description": "Vocabulary for KC_Vocab_كان",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أما",
+            "description": "Vocabulary for KC_Vocab_أما",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فضل",
+            "description": "Vocabulary for KC_Vocab_فضل",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حارب",
+            "description": "Vocabulary for KC_Vocab_حارب",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عشب",
+            "description": "Vocabulary for KC_Vocab_عشب",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حصد",
+            "description": "Vocabulary for KC_Vocab_حصد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_هو",
+            "description": "Vocabulary for KC_Vocab_هو",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_محصول",
+            "description": "Vocabulary for KC_Vocab_محصول",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سهرة",
+            "description": "Vocabulary for KC_Vocab_سهرة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عائلي",
+            "description": "Vocabulary for KC_Vocab_عائلي",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_هذا",
+            "description": "Vocabulary for KC_Vocab_هذا",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_صغير",
+            "description": "Vocabulary for KC_Vocab_صغير",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ضيق",
+            "description": "Vocabulary for KC_Vocab_ضيق",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بناية",
+            "description": "Vocabulary for KC_Vocab_بناية",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مع",
+            "description": "Vocabulary for KC_Vocab_مع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مرور",
+            "description": "Vocabulary for KC_Vocab_مرور",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عمارة",
+            "description": "Vocabulary for KC_Vocab_عمارة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عدد",
+            "description": "Vocabulary for KC_Vocab_عدد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ساكن",
+            "description": "Vocabulary for KC_Vocab_ساكن",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_زاد",
+            "description": "Vocabulary for KC_Vocab_زاد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حاجة",
+            "description": "Vocabulary for KC_Vocab_حاجة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مدرسة",
+            "description": "Vocabulary for KC_Vocab_مدرسة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_معمل",
+            "description": "Vocabulary for KC_Vocab_معمل",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مكتبة",
+            "description": "Vocabulary for KC_Vocab_مكتبة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_وسط",
+            "description": "Vocabulary for KC_Vocab_وسط",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_دار",
+            "description": "Vocabulary for KC_Vocab_دار",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سينما",
+            "description": "Vocabulary for KC_Vocab_سينما",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تابع",
+            "description": "Vocabulary for KC_Vocab_تابع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_اهتمام",
+            "description": "Vocabulary for KC_Vocab_اهتمام",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قاطع",
+            "description": "Vocabulary for KC_Vocab_قاطع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_صدق",
+            "description": "Vocabulary for KC_Vocab_صدق",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_لعب",
+            "description": "Vocabulary for KC_Vocab_لعب",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قال",
+            "description": "Vocabulary for KC_Vocab_قال",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تكون",
+            "description": "Vocabulary for KC_Vocab_تكون",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تاريخي",
+            "description": "Vocabulary for KC_Vocab_تاريخي",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فاس",
+            "description": "Vocabulary for KC_Vocab_فاس",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مراكش",
+            "description": "Vocabulary for KC_Vocab_مراكش",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_من",
+            "description": "Vocabulary for KC_Vocab_من",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قديم",
+            "description": "Vocabulary for KC_Vocab_قديم",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جديد",
+            "description": "Vocabulary for KC_Vocab_جديد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تعرف",
+            "description": "Vocabulary for KC_Vocab_تعرف",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بناء",
+            "description": "Vocabulary for KC_Vocab_بناء",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أصيل",
+            "description": "Vocabulary for KC_Vocab_أصيل",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تقليدي",
+            "description": "Vocabulary for KC_Vocab_تقليدي",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حدادة",
+            "description": "Vocabulary for KC_Vocab_حدادة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_دباغ",
+            "description": "Vocabulary for KC_Vocab_دباغ",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أحاط",
+            "description": "Vocabulary for KC_Vocab_أحاط",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كبير",
+            "description": "Vocabulary for KC_Vocab_كبير",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حمى",
+            "description": "Vocabulary for KC_Vocab_حمى",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عدة",
+            "description": "Vocabulary for KC_Vocab_عدة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_واسع",
+            "description": "Vocabulary for KC_Vocab_واسع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عصري",
+            "description": "Vocabulary for KC_Vocab_عصري",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فحمة",
+            "description": "Vocabulary for KC_Vocab_فحمة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مغربي",
+            "description": "Vocabulary for KC_Vocab_مغربي",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جمع",
+            "description": "Vocabulary for KC_Vocab_جمع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بين",
+            "description": "Vocabulary for KC_Vocab_بين",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عاش",
+            "description": "Vocabulary for KC_Vocab_عاش",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_غابة",
+            "description": "Vocabulary for KC_Vocab_غابة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_توسط",
+            "description": "Vocabulary for KC_Vocab_توسط",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عين",
+            "description": "Vocabulary for KC_Vocab_عين",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سمع",
+            "description": "Vocabulary for KC_Vocab_سمع",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_خرير",
+            "description": "Vocabulary for KC_Vocab_خرير",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قد",
+            "description": "Vocabulary for KC_Vocab_قد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_رغم",
+            "description": "Vocabulary for KC_Vocab_رغم",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جمعة",
+            "description": "Vocabulary for KC_Vocab_جمعة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ناقش",
+            "description": "Vocabulary for KC_Vocab_ناقش",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تعاون",
+            "description": "Vocabulary for KC_Vocab_تعاون",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_على",
+            "description": "Vocabulary for KC_Vocab_على",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مدخل",
+            "description": "Vocabulary for KC_Vocab_مدخل",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_محاط",
+            "description": "Vocabulary for KC_Vocab_محاط",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_طريق",
+            "description": "Vocabulary for KC_Vocab_طريق",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_معبد",
+            "description": "Vocabulary for KC_Vocab_معبد",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بنى",
+            "description": "Vocabulary for KC_Vocab_بنى",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قنطرة",
+            "description": "Vocabulary for KC_Vocab_قنطرة",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فوق",
+            "description": "Vocabulary for KC_Vocab_فوق",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تلميذ",
+            "description": "Vocabulary for KC_Vocab_تلميذ",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_خريف",
+            "description": "Vocabulary for KC_Vocab_خريف",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بدأ",
+            "description": "Vocabulary for KC_Vocab_بدأ",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جو",
+            "description": "Vocabulary for KC_Vocab_جو",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ربيع",
+            "description": "Vocabulary for KC_Vocab_ربيع",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أجاب",
+            "description": "Vocabulary for KC_Vocab_أجاب",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_راحة",
+            "description": "Vocabulary for KC_Vocab_راحة",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سوق",
+            "description": "Vocabulary for KC_Vocab_سوق",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سأل",
+            "description": "Vocabulary for KC_Vocab_سأل",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_استراح",
+            "description": "Vocabulary for KC_Vocab_استراح",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مدينة",
+            "description": "Vocabulary for KC_Vocab_مدينة",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ازداد",
+            "description": "Vocabulary for KC_Vocab_ازداد",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_لكن",
+            "description": "Vocabulary for KC_Vocab_لكن",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بني",
+            "description": "Vocabulary for KC_Vocab_بني",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_رباط",
+            "description": "Vocabulary for KC_Vocab_رباط",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مأثرة",
+            "description": "Vocabulary for KC_Vocab_مأثرة",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_انتشر",
+            "description": "Vocabulary for KC_Vocab_انتشر",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حرف",
+            "description": "Vocabulary for KC_Vocab_حرف",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ب",
+            "description": "Vocabulary for KC_Vocab_ب",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ماضي",
+            "description": "Vocabulary for KC_Vocab_ماضي",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_دور",
+            "description": "Vocabulary for KC_Vocab_دور",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_شب",
+            "description": "Vocabulary for KC_Vocab_شب",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أخضر",
+            "description": "Vocabulary for KC_Vocab_أخضر",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_متباعد",
+            "description": "Vocabulary for KC_Vocab_متباعد",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ماء",
+            "description": "Vocabulary for KC_Vocab_ماء",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جفاف",
+            "description": "Vocabulary for KC_Vocab_جفاف",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_اجتمع",
+            "description": "Vocabulary for KC_Vocab_اجتمع",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مشكلة",
+            "description": "Vocabulary for KC_Vocab_مشكلة",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_إشعال",
+            "description": "Vocabulary for KC_Vocab_إشعال",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_هكذا",
+            "description": "Vocabulary for KC_Vocab_هكذا",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_انقطع",
+            "description": "Vocabulary for KC_Vocab_انقطع",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_شتاء",
+            "description": "Vocabulary for KC_Vocab_شتاء",
+            "p_L0": 0.5,
+            "p_T": 0.3,
+            "p_G": 0.4,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_في",
+            "description": "Vocabulary for KC_Vocab_في",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_صديق",
+            "description": "Vocabulary for KC_Vocab_صديق",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سعيد",
+            "description": "Vocabulary for KC_Vocab_سعيد",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قرية",
+            "description": "Vocabulary for KC_Vocab_قرية",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كل",
+            "description": "Vocabulary for KC_Vocab_كل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عاد",
+            "description": "Vocabulary for KC_Vocab_عاد",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حدث",
+            "description": "Vocabulary for KC_Vocab_حدث",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مبتهج",
+            "description": "Vocabulary for KC_Vocab_مبتهج",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عن",
+            "description": "Vocabulary for KC_Vocab_عن",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عمل",
+            "description": "Vocabulary for KC_Vocab_عمل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فصل",
+            "description": "Vocabulary for KC_Vocab_فصل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_استعداد",
+            "description": "Vocabulary for KC_Vocab_استعداد",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تين",
+            "description": "Vocabulary for KC_Vocab_تين",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_برتقال",
+            "description": "Vocabulary for KC_Vocab_برتقال",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ثم",
+            "description": "Vocabulary for KC_Vocab_ثم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_بعض",
+            "description": "Vocabulary for KC_Vocab_بعض",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_شتيل",
+            "description": "Vocabulary for KC_Vocab_شتيل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عتا",
+            "description": "Vocabulary for KC_Vocab_عتا",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أن",
+            "description": "Vocabulary for KC_Vocab_أن",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تلازم",
+            "description": "Vocabulary for KC_Vocab_تلازم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حظيرة",
+            "description": "Vocabulary for KC_Vocab_حظيرة",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كلم",
+            "description": "Vocabulary for KC_Vocab_كلم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ممطر",
+            "description": "Vocabulary for KC_Vocab_ممطر",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_إن",
+            "description": "Vocabulary for KC_Vocab_إن",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ضار",
+            "description": "Vocabulary for KC_Vocab_ضار",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أخير",
+            "description": "Vocabulary for KC_Vocab_أخير",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ما",
+            "description": "Vocabulary for KC_Vocab_ما",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_يوم",
+            "description": "Vocabulary for KC_Vocab_يوم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_راضي",
+            "description": "Vocabulary for KC_Vocab_راضي",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_متى",
+            "description": "Vocabulary for KC_Vocab_متى",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أخذ",
+            "description": "Vocabulary for KC_Vocab_أخذ",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حديث",
+            "description": "Vocabulary for KC_Vocab_حديث",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_إلى",
+            "description": "Vocabulary for KC_Vocab_إلى",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_شارع",
+            "description": "Vocabulary for KC_Vocab_شارع",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_نظيف",
+            "description": "Vocabulary for KC_Vocab_نظيف",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قليل",
+            "description": "Vocabulary for KC_Vocab_قليل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ارتفاع",
+            "description": "Vocabulary for KC_Vocab_ارتفاع",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_زمن",
+            "description": "Vocabulary for KC_Vocab_زمن",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أصبح",
+            "description": "Vocabulary for KC_Vocab_أصبح",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فسيح",
+            "description": "Vocabulary for KC_Vocab_فسيح",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كثر",
+            "description": "Vocabulary for KC_Vocab_كثر",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_شاهق",
+            "description": "Vocabulary for KC_Vocab_شاهق",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حي",
+            "description": "Vocabulary for KC_Vocab_حي",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مستشفى",
+            "description": "Vocabulary for KC_Vocab_مستشفى",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_وجد",
+            "description": "Vocabulary for KC_Vocab_وجد",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مقهى",
+            "description": "Vocabulary for KC_Vocab_مقهى",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كلام",
+            "description": "Vocabulary for KC_Vocab_كلام",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جدي",
+            "description": "Vocabulary for KC_Vocab_جدي",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_حديقة",
+            "description": "Vocabulary for KC_Vocab_حديقة",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_في",
+            "description": "Vocabulary for KC_Vocab_في",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_طفل",
+            "description": "Vocabulary for KC_Vocab_طفل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_هز",
+            "description": "Vocabulary for KC_Vocab_هز",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_رأس",
+            "description": "Vocabulary for KC_Vocab_رأس",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جل",
+            "description": "Vocabulary for KC_Vocab_جل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_درب",
+            "description": "Vocabulary for KC_Vocab_درب",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_سور",
+            "description": "Vocabulary for KC_Vocab_سور",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_متجر",
+            "description": "Vocabulary for KC_Vocab_متجر",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فندق",
+            "description": "Vocabulary for KC_Vocab_فندق",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مساحة",
+            "description": "Vocabulary for KC_Vocab_مساحة",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أجمل",
+            "description": "Vocabulary for KC_Vocab_أجمل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_جبلي",
+            "description": "Vocabulary for KC_Vocab_جبلي",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_منزل",
+            "description": "Vocabulary for KC_Vocab_منزل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_كثيف",
+            "description": "Vocabulary for KC_Vocab_كثيف",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_من",
+            "description": "Vocabulary for KC_Vocab_من",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_ظل",
+            "description": "Vocabulary for KC_Vocab_ظل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_متدفق",
+            "description": "Vocabulary for KC_Vocab_متدفق",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_قرب",
+            "description": "Vocabulary for KC_Vocab_قرب",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_مسجد",
+            "description": "Vocabulary for KC_Vocab_مسجد",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أهل",
+            "description": "Vocabulary for KC_Vocab_أهل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_هناك",
+            "description": "Vocabulary for KC_Vocab_هناك",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_طيب",
+            "description": "Vocabulary for KC_Vocab_طيب",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_عتيق",
+            "description": "Vocabulary for KC_Vocab_عتيق",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_أحب",
+            "description": "Vocabulary for KC_Vocab_أحب",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_علم",
+            "description": "Vocabulary for KC_Vocab_علم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_تربي",
+            "description": "Vocabulary for KC_Vocab_تربي",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_فصل",
+            "description": "Vocabulary for KC_Vocab_فصل",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_نهر",
+            "description": "Vocabulary for KC_Vocab_نهر",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_لم",
+            "description": "Vocabulary for KC_Vocab_لم",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocab_دراسة",
+            "description": "Vocabulary for KC_Vocab_دراسة",
+            "p_L0": 0.05,
+            "p_T": 0.1,
+            "p_G": 0.5,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    }
+]

@@ -12,45 +12,63 @@ const GlossaryCard = ({ glossary, onClose }) => {
         left: "50%",
         transform: "translate(-50%, -50%)",
         zIndex: 1000,
-        width: 500,
+        width: { xs: "90%", sm: 500 }, // Responsive width
       }}
     >
       <Card
         sx={{
-          padding: "16px",
-          backgroundColor: "#f8f9fa",
-          boxShadow: "0 4px 10px rgba(0,0,0,0.2)",
-          border: "2px solid gray", // Add a gray border to the card
-          borderRadius: "8px", // Optional: To make the card look better
+          padding: "20px",
+          backgroundColor: "#ffffff",
+          boxShadow: "0 8px 20px rgba(0,0,0,0.1)", // Subtle shadow
+          border: "1px solid #e0e0e0", // Soft border
+          borderRadius: "12px", // Smooth corners
         }}
       >
         <CardContent>
-          <Typography variant="h6" sx={{ mb: 2, fontWeight: "bold", textAlign: "center" }}>
+          <Typography
+            variant="h5"
+            sx={{
+              mb: 3,
+              fontWeight: "bold",
+              textAlign: "center",
+              color: "#3f51b5", // Soft blue title
+            }}
+          >
             Glossary
           </Typography>
-          <Typography variant="body1" sx={{ mb: 2 }}>
-            <strong>Gloss:</strong> {glossary.gloss || "N/A"}
+          <Typography
+            variant="body1"
+            sx={{ mb: 2, lineHeight: 1.6, fontSize: "1rem" }}
+          >
+            <strong style={{ color: "#333" }}>Gloss:</strong>{" "}
+            {glossary.gloss || "N/A"}
           </Typography>
-          <Typography variant="body1" sx={{ mb: 2 }}>
-            <strong>Sentence:</strong> {glossary.sentence || "N/A"}
-          </Typography>
-          <Typography variant="body1">
-            <strong>Definition:</strong> {glossary.definition || "N/A"}
+          <Typography
+            variant="body1"
+            sx={{ lineHeight: 1.6, fontSize: "1rem" }}
+          >
+            <strong style={{ color: "#333" }}>Definition:</strong>{" "}
+            {glossary.definition || "N/A"}
           </Typography>
           <Box
             sx={{
               display: "flex",
               justifyContent: "center",
-              mt: 2,
+              mt: 3,
             }}
           >
             <Button
               onClick={onClose}
               sx={{
-                backgroundColor: "#007bff",
-                color: "white",
+                backgroundColor: "#3f51b5",
+                color: "#ffffff",
+                padding: "10px 20px",
+                fontSize: "1rem",
+                fontWeight: "bold",
+                borderRadius: "8px",
+                textTransform: "none",
                 "&:hover": {
-                  backgroundColor: "#0056b3",
+                  backgroundColor: "#303f9f",
                 },
               }}
             >
