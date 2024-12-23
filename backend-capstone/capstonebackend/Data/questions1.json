@@ -89,7 +89,7 @@
                 "answer": "علق"
             }
         },
-        {
+        {  
             "model": "knowledge.Question",
             "fields": {
                 "node": "KC_Vocab_علق",

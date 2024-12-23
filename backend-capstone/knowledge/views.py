@@ -269,6 +269,9 @@ class KnowledgeComponentViewSet(viewsets.ModelViewSet):
                                     "action": "ask_question",
                                     "question_id": question.id,
                                     "question_text": question.question,
+                                    "type": question.type,
+                                    "options": question.options if question.type == "multiple_choice" else None,
+                                    "answer": question.answer  # Include answer if needed f
                                 }, status=status.HTTP_200_OK)
                         else:
                             kc.p_know = max(0.0, kc.p_know - 0.05)  # Apply decay
@@ -289,6 +292,9 @@ class KnowledgeComponentViewSet(viewsets.ModelViewSet):
                                 "action": "ask_question",
                                 "question_id": question.id,
                                 "question_text": question.question,
+                                "type": question.type,
+                                "options": question.options if question.type == "multiple_choice" else None,
+                                "answer": question.answer  # Include answer if needed f
                             }, status=status.HTTP_200_OK)
 
             # If the word is not found in the current knowledge components, show glossary

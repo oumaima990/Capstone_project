@@ -1,0 +1,268 @@
+[
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Object",
+            "description": "Vocabulary for KC_Vocabulary_Object",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Verb",
+            "description": "Vocabulary for KC_Vocabulary_Verb",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Adjective",
+            "description": "Vocabulary for KC_Vocabulary_Adjective",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Adverb",
+            "description": "Vocabulary for KC_Vocabulary_Adverb",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Preposition",
+            "description": "Vocabulary for KC_Vocabulary_Preposition",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Conjunction",
+            "description": "Vocabulary for KC_Vocabulary_Conjunction",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Pronouns",
+            "description": "Vocabulary for KC_Vocabulary_Pronouns",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Vocabulary_Proper_Noun",
+            "description": "Vocabulary for KC_Vocabulary_Proper_Noun",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Case_Nominative",
+            "description": "Grammar for KC_Grammar_Case_Nominative",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Case_Accusative",
+            "description": "Grammar for KC_Grammar_Case_Accusative",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Case_Genitive",
+            "description": "Grammar for KC_Grammar_Case_Genitive",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_SentenceType_Nominal",
+            "description": "Grammar for KC_Grammar_SentenceType_Nominal",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_SentenceType_Verbal",
+            "description": "Grammar for KC_Grammar_SentenceType_Verbal",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Pronoun_Personal",
+            "description": "Grammar for KC_Grammar_Pronoun_Personal",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Pronoun_Possessive",
+            "description": "Grammar for KC_Grammar_Pronoun_Possessive",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Pronoun_Object",
+            "description": "Grammar for KC_Grammar_Pronoun_Object",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Grammar_Preposition",
+            "description": "Grammar for KC_Grammar_Preposition",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Masculine",
+            "description": "Morphology for KC_Masculine",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    },
+    {
+        "model": "knowledge.KnowledgeNode",
+        "fields": {
+            "name": "KC_Feminine",
+            "description": "Morphology for KC_Feminine",
+            "p_L0": 0.75,
+            "p_T": 0.5,
+            "p_G": 0.2,
+            "p_S": 0.1,
+            "baseline": 0.9,
+            "grade": 1,
+            "unit": 1
+        }
+    }
+]
